@@ -403,8 +403,8 @@ def renderTiktok(inputText, delay=1):
 # 1 -> Line, 2 -> Lines
 
 # PLACE FILES HERE
-jsonPATH = "./MerryChristmasPDC/mcpdc.json"
-mp3PATH = "./MerryChristmasPDC/mcpdc.mp3"
+jsonPATH = "./AsaAsmara/asaAsmara.json"
+mp3PATH = "./AsaAsmara/asaAsmara.mp3"
 
 with open(jsonPATH, encoding="utf-8") as f:
     data = json.load(f)
@@ -439,12 +439,3 @@ for line in range(len(lines)):
 # for i in range(len(initsplit)-1):
 #     joined = " ".join(initsplit[0:i+1])
 #     renderTiktok(joined,1.4)
-
-# renderTiktok("BILA KUINGAT PERANGAIMU SAAT ITU", 10)
-        
-
-    
-        
-    
-
-    

@@ -3,7 +3,7 @@
     "words": [
       {
         "text": "...",
-        "delay": 2
+        "delay": 25.129
       }
     ]
   },
@@ -11,11 +11,11 @@
     "words": [
       {
         "text": "LUCU",
-        "delay": 0.55
+        "delay": 0.411
       },
       {
         "text": "RASANYA",
-        "delay": 1.99
+        "delay": 1.736
       }
     ]
   },
@@ -23,23 +23,23 @@
     "words": [
       {
         "text": "BILA",
-        "delay": 0.47
+        "delay": 0.486
       },
       {
         "text": "KUINGAT",
-        "delay": 1.0
+        "delay": 0.936
       },
       {
         "text": "PERANGAIMU",
-        "delay": 1.27
+        "delay": 1.34
       },
       {
         "text": "SAAT",
-        "delay": 1.42
+        "delay": 1.688
       },
       {
         "text": "ITU",
-        "delay": 3.16
+        "delay": 2.985
       }
     ]
   },
@@ -47,11 +47,11 @@
     "words": [
       {
         "text": "LUGU",
-        "delay": 1.44
+        "delay": 1.411
       },
       {
         "text": "RAUTMU",
-        "delay": 2.44
+        "delay": 2.416
       }
     ]
   },
@@ -59,23 +59,23 @@
     "words": [
       {
         "text": "SAAT",
-        "delay": 0.36
+        "delay": 0.408
       },
       {
         "text": "KAU",
-        "delay": 0.52
+        "delay": 0.348
       },
       {
         "text": "HENDAK",
-        "delay": 0.59
+        "delay": 0.528
       },
       {
         "text": "BICARA",
-        "delay": 0.56
+        "delay": 1.079
       },
       {
         "text": "DENGANKU",
-        "delay": 4.4
+        "delay": 4.982
       }
     ]
   },
@@ -83,11 +83,11 @@
     "words": [
       {
         "text": "IMPRESI",
-        "delay": 1.44
+        "delay": 1.362
       },
       {
         "text": "MALUMU",
-        "delay": 2.67
+        "delay": 2.392
       }
     ]
   },
@@ -95,27 +95,27 @@
     "words": [
       {
         "text": "TAK",
-        "delay": 0.3
+        "delay": 0.298
       },
       {
         "text": "DAPAT",
-        "delay": 0.37
+        "delay": 0.54
       },
       {
         "text": "ENGKAU",
-        "delay": 0.48
+        "delay": 0.576
       },
       {
         "text": "BENDUNG",
-        "delay": 0.54
+        "delay": 0.676
       },
       {
         "text": "DI",
-        "delay": 0.8
+        "delay": 0.23
       },
       {
         "text": "DEPANKU",
-        "delay": 5.4
+        "delay": 5.071
       }
     ]
   },
@@ -123,19 +123,19 @@
     "words": [
       {
         "text": "BAK",
-        "delay": 0.37
+        "delay": 0.581
       },
       {
         "text": "TOMAT",
-        "delay": 0.51
+        "delay": 0.932
       },
       {
         "text": "YANG",
-        "delay": 0.81
+        "delay": 1.008
       },
       {
         "text": "MERAH",
-        "delay": 2.44
+        "delay": 1.312
       }
     ]
   },
@@ -143,23 +143,23 @@
     "words": [
       {
         "text": "WAJAHMU",
-        "delay": 1.42
+        "delay": 0.65
       },
       {
         "text": "PUN",
-        "delay": 0.67
+        "delay": 0.356
       },
       {
         "text": "ARUNA",
-        "delay": 0.45
+        "delay": 0.924
       },
       {
         "text": "KALA",
-        "delay": 0.74
+        "delay": 0.73
       },
       {
         "text": "ITU",
-        "delay": 4.4
+        "delay": 4.619
       }
     ]
   },
@@ -167,23 +167,23 @@
     "words": [
       {
         "text": "TERPENDAM",
-        "delay": 1.4
+        "delay": 1.653
       },
       {
         "text": "ASMARA",
-        "delay": 1.65
+        "delay": 0.798
       },
       {
         "text": "KAU",
-        "delay": 0.8
+        "delay": 0.474
       },
       {
         "text": "DI",
-        "delay": 0.46
+        "delay": 0.256
       },
       {
         "text": "DADA",
-        "delay": 0.55
+        "delay": 0.945
       }
     ]
   },
@@ -191,19 +191,19 @@
     "words": [
       {
         "text": "ADA",
-        "delay": 0.75
+        "delay": 0.598
       },
       {
         "text": "ASA",
-        "delay": 0.55
+        "delay": 0.444
       },
       {
         "text": "'TUK",
-        "delay": 0.48
+        "delay": 0.6
       },
       {
         "text": "UNGKAPNYA",
-        "delay": 0.39
+        "delay": 1.079
       }
     ]
   },
@@ -211,15 +211,15 @@
     "words": [
       {
         "text": "BERDEBAR",
-        "delay": 1.23
+        "delay": 1.114
       },
       {
         "text": "JANTUNGKU",
-        "delay": 0.95
+        "delay": 1.048
       },
       {
         "text": "BILA",
-        "delay": 1.04
+        "delay": 0.746
       }
     ]
   },
@@ -227,15 +227,15 @@
     "words": [
       {
         "text": "HARUS",
-        "delay": 1.05
+        "delay": 0.666
       },
       {
         "text": "BERKATA",
-        "delay": 0.62
+        "delay": 0.914
       },
       {
         "text": "JUJUR",
-        "delay": 0.89
+        "delay": 1.082
       }
     ]
   },
@@ -243,15 +243,15 @@
     "words": [
       {
         "text": "DILEMAMU",
-        "delay": 1.22
+        "delay": 1.209
       },
       {
         "text": "DI",
-        "delay": 0.99
+        "delay": 0.406
       },
       {
         "text": "KEPALA",
-        "delay": 0.48
+        "delay": 1.195
       }
     ]
   },
@@ -259,11 +259,11 @@
     "words": [
       {
         "text": "HARUSKAH",
-        "delay": 1.15
+        "delay": 0.93
       },
       {
         "text": "MENGATAKANNYA?",
-        "delay": 1.07
+        "delay": 1.896
       }
     ]
   },
@@ -271,363 +271,19 @@
     "words": [
       {
         "text": "APA",
-        "delay": 1.79
+        "delay": 0.667
       },
       {
         "text": "YANG",
-        "delay": 0.88
+        "delay": 0.436
       },
       {
         "text": "TELAH",
-        "delay": 0.42
-      },
-      {
-        "text": "KAUPENDAM",
-        "delay": 0.47
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "TERLETAK",
-        "delay": 1.13
-      },
-      {
-        "text": "AMAT",
-        "delay": 0.95
-      },
-      {
-        "text": "DALAM",
-        "delay": 0.72
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "SAMPAIKANLAH",
-        "delay": 2.59
-      },
-      {
-        "text": "SAJA",
-        "delay": 1.71
-      },
-      {
-        "text": "RASA",
-        "delay": 0.6
-      },
-      {
-        "text": "YANG",
         "delay": 0.68
       },
       {
-        "text": "ENGKAU",
-        "delay": 0.39
-      },
-      {
-        "text": "SIMPAN",
-        "delay": 0.54
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "JANGAN",
-        "delay": 0.85
-      },
-      {
-        "text": "SELALU",
-        "delay": 0.65
-      },
-      {
-        "text": "KAUTAHAN",
-        "delay": 0.72
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BIARKAN",
-        "delay": 0.63
-      },
-      {
-        "text": "ITU",
-        "delay": 0.9
-      },
-      {
-        "text": "BERLALU",
-        "delay": 0.6
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BUAT",
-        "delay": 0.54
-      },
-      {
-        "text": "APA",
-        "delay": 1.6
-      },
-      {
-        "text": "KAUPENDAM?",
-        "delay": 1.09
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BILA",
-        "delay": 0.42
-      },
-      {
-        "text": "KAU",
-        "delay": 1.28
-      },
-      {
-        "text": "BENAR-BENAR",
-        "delay": 0.84
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "PUNYA",
-        "delay": 0.37
-      },
-      {
-        "text": "ASA",
-        "delay": 0.71
-      },
-      {
-        "text": "BERSAMA",
-        "delay": 1.22
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BIARKANLAH",
-        "delay": 0.37
-      },
-      {
-        "text": "KU",
-        "delay": 0.65
-      },
-      {
-        "text": "TAHU",
-        "delay": 1.74
-      },
-      {
-        "text": "ITU",
-        "delay": 0.48
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BENIH",
-        "delay": 0.46
-      },
-      {
-        "text": "CINTAMU",
-        "delay": 0.36
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BAK",
-        "delay": 1.72
-      },
-      {
-        "text": "TOMAT",
-        "delay": 0.82
-      },
-      {
-        "text": "YANG",
-        "delay": 0.55
-      },
-      {
-        "text": "MERAH",
-        "delay": 0.85
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "WAJAHMU",
-        "delay": 0.7
-      },
-      {
-        "text": "PUN",
-        "delay": 0.35
-      },
-      {
-        "text": "ARUNA",
-        "delay": 0.55
-      },
-      {
-        "text": "KALA",
-        "delay": 0.55
-      },
-      {
-        "text": "ITU",
-        "delay": 0.85
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "TERPENDAM",
-        "delay": 0.7
-      },
-      {
-        "text": "ASMARA",
-        "delay": 0.55
-      },
-      {
-        "text": "KAU",
-        "delay": 0.35
-      },
-      {
-        "text": "DI",
-        "delay": 0.35
-      },
-      {
-        "text": "DADA",
-        "delay": 0.55
-      },
-      {
-        "text": "(ASMARA)",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "ADA",
-        "delay": 0.35
-      },
-      {
-        "text": "ASA",
-        "delay": 0.35
-      },
-      {
-        "text": "'TUK",
-        "delay": 0.35
-      },
-      {
-        "text": "UNGKAPNYA",
-        "delay": 0.7
-      },
-      {
-        "text": "(UNGKAPNYA)",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BERDEBAR",
-        "delay": 0.7
-      },
-      {
-        "text": "JANTUNGKU",
-        "delay": 0.7
-      },
-      {
-        "text": "BILA",
-        "delay": 0.85
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "HARUS",
-        "delay": 0.55
-      },
-      {
-        "text": "BERKATA",
-        "delay": 0.7
-      },
-      {
-        "text": "JUJUR",
-        "delay": 0.55
-      },
-      {
-        "text": "(DEG-DEGAN,",
-        "delay": 0.7
-      },
-      {
-        "text": "DEH!)",
-        "delay": 0.85
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "DILEMAMU",
-        "delay": 0.7
-      },
-      {
-        "text": "DI",
-        "delay": 0.35
-      },
-      {
-        "text": "KEPALA",
-        "delay": 0.55
-      },
-      {
-        "text": "(KEPALA)",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "HARUSKAH",
-        "delay": 0.7
-      },
-      {
-        "text": "MENGATAKANNYA?",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "APA",
-        "delay": 0.35
-      },
-      {
-        "text": "YANG",
-        "delay": 0.55
-      },
-      {
-        "text": "TELAH",
-        "delay": 0.55
-      },
-      {
         "text": "KAUPENDAM",
-        "delay": 1.05
+        "delay": 1.132
       }
     ]
   },
@@ -635,15 +291,15 @@
     "words": [
       {
         "text": "TERLETAK",
-        "delay": 0.7
+        "delay": 0.991
       },
       {
         "text": "AMAT",
-        "delay": 0.55
+        "delay": 0.626
       },
       {
         "text": "DALAM",
-        "delay": 0.85
+        "delay": 2.489
       }
     ]
   },
@@ -651,27 +307,27 @@
     "words": [
       {
         "text": "SAMPAIKANLAH",
-        "delay": 0.7
+        "delay": 1.894
       },
       {
         "text": "SAJA",
-        "delay": 0.55
+        "delay": 0.367
       },
       {
         "text": "RASA",
-        "delay": 0.55
+        "delay": 0.524
       },
       {
         "text": "YANG",
-        "delay": 0.55
+        "delay": 0.42
       },
       {
         "text": "ENGKAU",
-        "delay": 0.55
+        "delay": 0.596
       },
       {
         "text": "SIMPAN",
-        "delay": 1.05
+        "delay": 1.228
       }
     ]
   },
@@ -679,15 +335,15 @@
     "words": [
       {
         "text": "JANGAN",
-        "delay": 0.55
+        "delay": 0.507
       },
       {
         "text": "SELALU",
-        "delay": 0.55
+        "delay": 0.738
       },
       {
         "text": "KAUTAHAN",
-        "delay": 1.05
+        "delay": 1.539
       }
     ]
   },
@@ -695,15 +351,15 @@
     "words": [
       {
         "text": "BIARKAN",
-        "delay": 0.7
+        "delay": 0.78
       },
       {
         "text": "ITU",
-        "delay": 0.35
+        "delay": 0.473
       },
       {
         "text": "BERLALU",
-        "delay": 1.05
+        "delay": 1.48
       }
     ]
   },
@@ -711,15 +367,15 @@
     "words": [
       {
         "text": "BUAT",
-        "delay": 0.55
+        "delay": 1.04
       },
       {
         "text": "APA",
-        "delay": 0.35
+        "delay": 0.252
       },
       {
         "text": "KAUPENDAM?",
-        "delay": 1.05
+        "delay": 1.528
       }
     ]
   },
@@ -727,15 +383,15 @@
     "words": [
       {
         "text": "BILA",
-        "delay": 0.55
+        "delay": 0.78
       },
       {
         "text": "KAU",
-        "delay": 0.35
+        "delay": 0.34
       },
       {
         "text": "BENAR-BENAR",
-        "delay": 1.05
+        "delay": 2.014
       }
     ]
   },
@@ -743,15 +399,15 @@
     "words": [
       {
         "text": "PUNYA",
-        "delay": 0.55
+        "delay": 0.426
       },
       {
         "text": "ASA",
-        "delay": 0.35
+        "delay": 0.53
       },
       {
         "text": "BERSAMA",
-        "delay": 1.05
+        "delay": 1.84
       }
     ]
   },
@@ -759,147 +415,19 @@
     "words": [
       {
         "text": "BIARKANLAH",
-        "delay": 0.7
+        "delay": 0.749
       },
       {
         "text": "KU",
-        "delay": 0.35
+        "delay": 0.461
       },
       {
         "text": "TAHU",
-        "delay": 0.55
+        "delay": 0.864
       },
       {
         "text": "ITU",
-        "delay": 0.85
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "SAMPAIKANLAH",
-        "delay": 0.7
-      },
-      {
-        "text": "SAJA",
-        "delay": 0.55
-      },
-      {
-        "text": "RASA",
-        "delay": 0.55
-      },
-      {
-        "text": "YANG",
-        "delay": 0.55
-      },
-      {
-        "text": "ENGKAU",
-        "delay": 0.55
-      },
-      {
-        "text": "SIMPAN",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "JANGAN",
-        "delay": 0.55
-      },
-      {
-        "text": "SELALU",
-        "delay": 0.55
-      },
-      {
-        "text": "KAUTAHAN",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BIARKAN",
-        "delay": 0.7
-      },
-      {
-        "text": "ITU",
-        "delay": 0.35
-      },
-      {
-        "text": "BERLALU",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BUAT",
-        "delay": 0.55
-      },
-      {
-        "text": "APA",
-        "delay": 0.35
-      },
-      {
-        "text": "KAUPENDAM?",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BILA",
-        "delay": 0.55
-      },
-      {
-        "text": "KAU",
-        "delay": 0.35
-      },
-      {
-        "text": "BENAR-BENAR",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "PUNYA",
-        "delay": 0.55
-      },
-      {
-        "text": "ASA",
-        "delay": 0.35
-      },
-      {
-        "text": "BERSAMA",
-        "delay": 1.05
-      }
-    ]
-  },
-  {
-    "words": [
-      {
-        "text": "BIARKANLAH",
-        "delay": 0.7
-      },
-      {
-        "text": "KU",
-        "delay": 0.35
-      },
-      {
-        "text": "TAHU",
-        "delay": 0.55
-      },
-      {
-        "text": "ITU",
-        "delay": 0.85
+        "delay": 1.049
       }
     ]
   },
@@ -907,11 +435,211 @@
     "words": [
       {
         "text": "BENIH",
-        "delay": 0.55
+        "delay": 0.562
       },
       {
         "text": "CINTAMU",
-        "delay": 1.05
+        "delay": 4.985
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BAK",
+        "delay": 0.616
+      },
+      {
+        "text": "TOMAT",
+        "delay": 0.984
+      },
+      {
+        "text": "YANG",
+        "delay": 0.912
+      },
+      {
+        "text": "MERAH",
+        "delay": 1.363
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "WAJAHMU",
+        "delay": 0.739
+      },
+      {
+        "text": "PUN",
+        "delay": 0.34
+      },
+      {
+        "text": "ARUNA",
+        "delay": 0.86
+      },
+      {
+        "text": "KALA",
+        "delay": 0.72
+      },
+      {
+        "text": "ITU",
+        "delay": 4.571
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "TERPENDAM",
+        "delay": 1.754
+      },
+      {
+        "text": "ASMARA",
+        "delay": 0.732
+      },
+      {
+        "text": "KAU",
+        "delay": 0.5
+      },
+      {
+        "text": "DI",
+        "delay": 0.2
+      },
+      {
+        "text": "DADA",
+        "delay": 0.631
+      },
+      {
+        "text": "(ASMARA)",
+        "delay": 0.315
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "ADA",
+        "delay": 0.722
+      },
+      {
+        "text": "ASA",
+        "delay": 0.372
+      },
+      {
+        "text": "'TUK",
+        "delay": 0.52
+      },
+      {
+        "text": "UNGKAPNYA",
+        "delay": 1.184
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BERDEBAR",
+        "delay": 1.107
+      },
+      {
+        "text": "JANTUNGKU",
+        "delay": 1.011
+      },
+      {
+        "text": "BILA",
+        "delay": 0.792
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "HARUS",
+        "delay": 0.647
+      },
+      {
+        "text": "BERKATA",
+        "delay": 0.988
+      },
+      {
+        "text": "JUJUR",
+        "delay": 0.64
+      },
+      {
+        "text": "(DEG-DEGAN,",
+        "delay": 0.48
+      },
+      {
+        "text": "DEH!)",
+        "delay": 0.07
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "DILEMAMU",
+        "delay": 1.094
+      },
+      {
+        "text": "DI",
+        "delay": 0.356
+      },
+      {
+        "text": "KEPALA",
+        "delay": 0.64
+      },
+      {
+        "text": "(KEPALA)",
+        "delay": 0.52
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "HARUSKAH",
+        "delay": 0.96
+      },
+      {
+        "text": "MENGATAKANNYA?",
+        "delay": 1.87
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "APA",
+        "delay": 0.678
+      },
+      {
+        "text": "YANG",
+        "delay": 0.408
+      },
+      {
+        "text": "TELAH",
+        "delay": 0.728
+      },
+      {
+        "text": "KAUPENDAM",
+        "delay": 1.116
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "TERLETAK",
+        "delay": 1.004
+      },
+      {
+        "text": "AMAT",
+        "delay": 0.606
+      },
+      {
+        "text": "DALAM",
+        "delay": 2.454
       }
     ]
   },
@@ -919,23 +647,27 @@
     "words": [
       {
         "text": "SAMPAIKANLAH",
-        "delay": 0.7
+        "delay": 1.874
+      },
+      {
+        "text": "SAJA",
+        "delay": 0.424
       },
       {
         "text": "RASA",
-        "delay": 0.55
+        "delay": 0.516
       },
       {
-        "text": "ITU",
-        "delay": 0.35
+        "text": "YANG",
+        "delay": 0.388
       },
       {
-        "text": "(BENIH",
-        "delay": 0.55
+        "text": "ENGKAU",
+        "delay": 0.552
       },
       {
-        "text": "CINTAMU)",
-        "delay": 1.05
+        "text": "SIMPAN",
+        "delay": 1.222
       }
     ]
   },
@@ -943,19 +675,279 @@
     "words": [
       {
         "text": "JANGAN",
-        "delay": 0.55
+        "delay": 0.542
       },
       {
-        "text": "RAGU",
-        "delay": 0.55
+        "text": "SELALU",
+        "delay": 0.764
+      },
+      {
+        "text": "KAUTAHAN",
+        "delay": 1.424
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BIARKAN",
+        "delay": 0.986
+      },
+      {
+        "text": "ITU",
+        "delay": 0.412
+      },
+      {
+        "text": "BERLALU",
+        "delay": 1.842
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUAT",
+        "delay": 0.63
+      },
+      {
+        "text": "APA",
+        "delay": 0.272
+      },
+      {
+        "text": "KAUPENDAM?",
+        "delay": 1.546
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BILA",
+        "delay": 0.73
+      },
+      {
+        "text": "KAU",
+        "delay": 0.342
+      },
+      {
+        "text": "BENAR-BENAR",
+        "delay": 1.999
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "PUNYA",
+        "delay": 0.471
+      },
+      {
+        "text": "ASA",
+        "delay": 0.53
+      },
+      {
+        "text": "BERSAMA",
+        "delay": 1.875
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BIARKANLAH",
+        "delay": 0.915
+      },
+      {
+        "text": "KU",
+        "delay": 0.324
+      },
+      {
+        "text": "TAHU",
+        "delay": 0.776
+      },
+      {
+        "text": "ITU",
+        "delay": 0.999
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SAMPAIKANLAH",
+        "delay": 1.901
+      },
+      {
+        "text": "SAJA",
+        "delay": 0.392
+      },
+      {
+        "text": "RASA",
+        "delay": 0.516
+      },
+      {
+        "text": "YANG",
+        "delay": 0.412
+      },
+      {
+        "text": "ENGKAU",
+        "delay": 0.56
+      },
+      {
+        "text": "SIMPAN",
+        "delay": 1.149
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "JANGAN",
+        "delay": 0.571
+      },
+      {
+        "text": "SELALU",
+        "delay": 0.752
+      },
+      {
+        "text": "KAUTAHAN",
+        "delay": 1.534
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BIARKAN",
+        "delay": 0.825
+      },
+      {
+        "text": "ITU",
+        "delay": 0.419
+      },
+      {
+        "text": "BERLALU",
+        "delay": 1.523
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUAT",
+        "delay": 0.949
+      },
+      {
+        "text": "APA",
+        "delay": 0.33
+      },
+      {
+        "text": "KAUPENDAM?",
+        "delay": 1.498
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BILA",
+        "delay": 0.794
+      },
+      {
+        "text": "KAU",
+        "delay": 0.336
+      },
+      {
+        "text": "BENAR-BENAR",
+        "delay": 2.1
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "PUNYA",
+        "delay": 0.38
+      },
+      {
+        "text": "ASA",
+        "delay": 0.508
+      },
+      {
+        "text": "BERSAMA",
+        "delay": 1.722
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BIARKANLAH",
+        "delay": 0.963
+      },
+      {
+        "text": "KU",
+        "delay": 0.436
+      },
+      {
+        "text": "TAHU",
+        "delay": 0.756
+      },
+      {
+        "text": "ITU",
+        "delay": 1.135
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BENIH",
+        "delay": 0.52
+      },
+      {
+        "text": "CINTAMU",
+        "delay": 1.758
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SAMPAIKANLAH",
+        "delay": 3.174
+      },
+      {
+        "text": "RASA",
+        "delay": 0.819
+      },
+      {
+        "text": "ITU",
+        "delay": 0.398
       },
       {
         "text": "(BENIH",
-        "delay": 0.55
+        "delay": 0.568
       },
       {
         "text": "CINTAMU)",
-        "delay": 1.05
+        "delay": 0.77
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "JANGAN",
+        "delay": 1.185
+      },
+      {
+        "text": "RAGU",
+        "delay": 5
+      },
+      {
+        "text" : ":)",
+        "delay" : 10
       }
     ]
   }
