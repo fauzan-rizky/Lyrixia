@@ -1,0 +1,2144 @@
+[
+  {
+    "word": "To",
+    "start": 2.99,
+    "end": 3.074,
+    "confidence": 0.659,
+    "line_index": 0
+  },
+  {
+    "word": "the",
+    "start": 3.074,
+    "end": 3.218,
+    "confidence": 0.756,
+    "line_index": 0
+  },
+  {
+    "word": "right",
+    "start": 3.218,
+    "end": 4.24,
+    "confidence": 0.563,
+    "line_index": 0
+  },
+  {
+    "word": "To",
+    "start": 5.134,
+    "end": 5.46,
+    "confidence": 0.76,
+    "line_index": 1
+  },
+  {
+    "word": "the",
+    "start": 5.46,
+    "end": 5.596,
+    "confidence": 0.76,
+    "line_index": 1
+  },
+  {
+    "word": "left",
+    "start": 5.596,
+    "end": 6.534,
+    "confidence": 0.189,
+    "line_index": 1
+  },
+  {
+    "word": "Count",
+    "start": 7.449,
+    "end": 7.971,
+    "confidence": 0.294,
+    "line_index": 2
+  },
+  {
+    "word": "to",
+    "start": 7.971,
+    "end": 8.147,
+    "confidence": 0.282,
+    "line_index": 2
+  },
+  {
+    "word": "three",
+    "start": 8.147,
+    "end": 8.969,
+    "confidence": 0.447,
+    "line_index": 2
+  },
+  {
+    "word": "Eyes",
+    "start": 9.918,
+    "end": 10.219,
+    "confidence": 0.402,
+    "line_index": 3
+  },
+  {
+    "word": "on",
+    "start": 10.219,
+    "end": 10.533,
+    "confidence": 0.376,
+    "line_index": 3
+  },
+  {
+    "word": "me",
+    "start": 10.533,
+    "end": 10.983,
+    "confidence": 0.628,
+    "line_index": 3
+  },
+  {
+    "word": "Raise",
+    "start": 12.319,
+    "end": 12.583,
+    "confidence": 0.687,
+    "line_index": 4
+  },
+  {
+    "word": "it",
+    "start": 12.583,
+    "end": 12.738,
+    "confidence": 0.56,
+    "line_index": 4
+  },
+  {
+    "word": "high",
+    "start": 12.738,
+    "end": 13.546,
+    "confidence": 0.443,
+    "line_index": 4
+  },
+  {
+    "word": "Wave",
+    "start": 14.542,
+    "end": 14.86,
+    "confidence": 0.494,
+    "line_index": 5
+  },
+  {
+    "word": "goodbye",
+    "start": 14.86,
+    "end": 16.15,
+    "confidence": 0.421,
+    "line_index": 5
+  },
+  {
+    "word": "to",
+    "start": 16.77,
+    "end": 17.104,
+    "confidence": 0.524,
+    "line_index": 5
+  },
+  {
+    "word": "the",
+    "start": 17.104,
+    "end": 17.317,
+    "confidence": 0.687,
+    "line_index": 5
+  },
+  {
+    "word": "city",
+    "start": 17.317,
+    "end": 18.387,
+    "confidence": 0.508,
+    "line_index": 5
+  },
+  {
+    "word": "Are",
+    "start": 19.373,
+    "end": 19.603,
+    "confidence": 0.544,
+    "line_index": 6
+  },
+  {
+    "word": "you",
+    "start": 19.603,
+    "end": 19.683,
+    "confidence": 0.23,
+    "line_index": 6
+  },
+  {
+    "word": "ready?",
+    "start": 19.683,
+    "end": 20.129,
+    "confidence": 0.805,
+    "line_index": 6
+  },
+  {
+    "word": "\"What",
+    "start": 20.129,
+    "end": 20.659,
+    "confidence": 0.621,
+    "line_index": 7
+  },
+  {
+    "word": "a",
+    "start": 20.659,
+    "end": 20.795,
+    "confidence": 0.696,
+    "line_index": 7
+  },
+  {
+    "word": "genius\"",
+    "start": 20.795,
+    "end": 21.765,
+    "confidence": 0.921,
+    "line_index": 7
+  },
+  {
+    "word": "\"Someday",
+    "start": 22.231,
+    "end": 22.89,
+    "confidence": 0.668,
+    "line_index": 8
+  },
+  {
+    "word": "you'll",
+    "start": 22.89,
+    "end": 23.166,
+    "confidence": 0.592,
+    "line_index": 8
+  },
+  {
+    "word": "be",
+    "start": 23.166,
+    "end": 23.546,
+    "confidence": 0.64,
+    "line_index": 8
+  },
+  {
+    "word": "on",
+    "start": 23.546,
+    "end": 23.67,
+    "confidence": 0.75,
+    "line_index": 8
+  },
+  {
+    "word": "top\"",
+    "start": 23.67,
+    "end": 24.16,
+    "confidence": 0.819,
+    "line_index": 8
+  },
+  {
+    "word": "\"Of",
+    "start": 24.891,
+    "end": 25.325,
+    "confidence": 0.827,
+    "line_index": 9
+  },
+  {
+    "word": "a",
+    "start": 25.325,
+    "end": 25.501,
+    "confidence": 0.646,
+    "line_index": 9
+  },
+  {
+    "word": "corporate",
+    "start": 25.501,
+    "end": 26.025,
+    "confidence": 0.513,
+    "line_index": 9
+  },
+  {
+    "word": "ladder\"",
+    "start": 26.025,
+    "end": 26.81,
+    "confidence": 0.708,
+    "line_index": 9
+  },
+  {
+    "word": "Excitedly,",
+    "start": 26.81,
+    "end": 27.888,
+    "confidence": 0.771,
+    "line_index": 10
+  },
+  {
+    "word": "mommy",
+    "start": 27.888,
+    "end": 28.36,
+    "confidence": 0.605,
+    "line_index": 10
+  },
+  {
+    "word": "said",
+    "start": 28.36,
+    "end": 28.9,
+    "confidence": 0.701,
+    "line_index": 10
+  },
+  {
+    "word": "She",
+    "start": 28.9,
+    "end": 29.56,
+    "confidence": 0.805,
+    "line_index": 11
+  },
+  {
+    "word": "might",
+    "start": 29.56,
+    "end": 30.02,
+    "confidence": 0.669,
+    "line_index": 11
+  },
+  {
+    "word": "have",
+    "start": 30.02,
+    "end": 30.22,
+    "confidence": 0.511,
+    "line_index": 11
+  },
+  {
+    "word": "exaggerated",
+    "start": 30.22,
+    "end": 31.36,
+    "confidence": 0.495,
+    "line_index": 11
+  },
+  {
+    "word": "’Cause",
+    "start": 31.36,
+    "end": 32.128,
+    "confidence": 0.226,
+    "line_index": 12
+  },
+  {
+    "word": "I'm",
+    "start": 32.128,
+    "end": 32.32,
+    "confidence": 0.355,
+    "line_index": 12
+  },
+  {
+    "word": "falling",
+    "start": 32.32,
+    "end": 32.92,
+    "confidence": 0.807,
+    "line_index": 12
+  },
+  {
+    "word": "behind",
+    "start": 32.92,
+    "end": 33.64,
+    "confidence": 0.927,
+    "line_index": 12
+  },
+  {
+    "word": "Oversensitive",
+    "start": 34.17,
+    "end": 35.44,
+    "confidence": 0.602,
+    "line_index": 13
+  },
+  {
+    "word": "heart",
+    "start": 35.44,
+    "end": 36.22,
+    "confidence": 0.819,
+    "line_index": 13
+  },
+  {
+    "word": "under",
+    "start": 36.22,
+    "end": 36.72,
+    "confidence": 0.632,
+    "line_index": 13
+  },
+  {
+    "word": "a",
+    "start": 36.72,
+    "end": 36.76,
+    "confidence": 0.092,
+    "line_index": 13
+  },
+  {
+    "word": "white",
+    "start": 36.76,
+    "end": 37.06,
+    "confidence": 0.684,
+    "line_index": 13
+  },
+  {
+    "word": "shirt",
+    "start": 37.06,
+    "end": 38.18,
+    "confidence": 0.306,
+    "line_index": 13
+  },
+  {
+    "word": "There",
+    "start": 38.35,
+    "end": 38.8,
+    "confidence": 0.672,
+    "line_index": 14
+  },
+  {
+    "word": "must",
+    "start": 38.8,
+    "end": 39.12,
+    "confidence": 0.762,
+    "line_index": 14
+  },
+  {
+    "word": "be",
+    "start": 39.12,
+    "end": 39.34,
+    "confidence": 0.734,
+    "line_index": 14
+  },
+  {
+    "word": "some",
+    "start": 39.34,
+    "end": 39.6,
+    "confidence": 0.498,
+    "line_index": 14
+  },
+  {
+    "word": "hidden",
+    "start": 39.6,
+    "end": 40.16,
+    "confidence": 0.57,
+    "line_index": 14
+  },
+  {
+    "word": "talent",
+    "start": 40.16,
+    "end": 40.82,
+    "confidence": 0.496,
+    "line_index": 14
+  },
+  {
+    "word": "In",
+    "start": 40.82,
+    "end": 41.08,
+    "confidence": 0.597,
+    "line_index": 15
+  },
+  {
+    "word": "this",
+    "start": 41.08,
+    "end": 41.42,
+    "confidence": 0.783,
+    "line_index": 15
+  },
+  {
+    "word": "strange",
+    "start": 41.42,
+    "end": 41.82,
+    "confidence": 0.536,
+    "line_index": 15
+  },
+  {
+    "word": "imaginative",
+    "start": 41.82,
+    "end": 43.1,
+    "confidence": 0.687,
+    "line_index": 15
+  },
+  {
+    "word": "mind",
+    "start": 43.1,
+    "end": 43.52,
+    "confidence": 0.59,
+    "line_index": 15
+  },
+  {
+    "word": "Enlighten",
+    "start": 43.52,
+    "end": 44.28,
+    "confidence": 0.606,
+    "line_index": 16
+  },
+  {
+    "word": "me,",
+    "start": 44.28,
+    "end": 44.508,
+    "confidence": 0.576,
+    "line_index": 16
+  },
+  {
+    "word": "enlighten",
+    "start": 44.508,
+    "end": 45.48,
+    "confidence": 0.627,
+    "line_index": 16
+  },
+  {
+    "word": "me",
+    "start": 45.48,
+    "end": 45.83,
+    "confidence": 0.585,
+    "line_index": 16
+  },
+  {
+    "word": "I",
+    "start": 45.83,
+    "end": 46.06,
+    "confidence": 0.889,
+    "line_index": 17
+  },
+  {
+    "word": "reached",
+    "start": 46.06,
+    "end": 46.468,
+    "confidence": 0.301,
+    "line_index": 17
+  },
+  {
+    "word": "out",
+    "start": 46.468,
+    "end": 46.62,
+    "confidence": 0.421,
+    "line_index": 17
+  },
+  {
+    "word": "to",
+    "start": 46.62,
+    "end": 46.872,
+    "confidence": 0.839,
+    "line_index": 17
+  },
+  {
+    "word": "your",
+    "start": 46.872,
+    "end": 47.14,
+    "confidence": 0.17,
+    "line_index": 17
+  },
+  {
+    "word": "spine",
+    "start": 47.14,
+    "end": 47.83,
+    "confidence": 0.792,
+    "line_index": 17
+  },
+  {
+    "word": "There",
+    "start": 47.83,
+    "end": 48.24,
+    "confidence": 0.547,
+    "line_index": 18
+  },
+  {
+    "word": "must",
+    "start": 48.24,
+    "end": 48.5,
+    "confidence": 0.637,
+    "line_index": 18
+  },
+  {
+    "word": "be",
+    "start": 48.5,
+    "end": 48.86,
+    "confidence": 0.598,
+    "line_index": 18
+  },
+  {
+    "word": "a",
+    "start": 48.86,
+    "end": 48.988,
+    "confidence": 0.662,
+    "line_index": 18
+  },
+  {
+    "word": "fiction",
+    "start": 48.988,
+    "end": 49.6,
+    "confidence": 0.64,
+    "line_index": 18
+  },
+  {
+    "word": "meant",
+    "start": 49.6,
+    "end": 49.836,
+    "confidence": 0.487,
+    "line_index": 18
+  },
+  {
+    "word": "for",
+    "start": 49.836,
+    "end": 50.14,
+    "confidence": 0.534,
+    "line_index": 18
+  },
+  {
+    "word": "me",
+    "start": 50.14,
+    "end": 50.535,
+    "confidence": 0.637,
+    "line_index": 18
+  },
+  {
+    "word": "Pages",
+    "start": 50.535,
+    "end": 51.226,
+    "confidence": 0.507,
+    "line_index": 19
+  },
+  {
+    "word": "in",
+    "start": 51.226,
+    "end": 51.378,
+    "confidence": 0.85,
+    "line_index": 19
+  },
+  {
+    "word": "hand,",
+    "start": 51.378,
+    "end": 51.782,
+    "confidence": 0.741,
+    "line_index": 19
+  },
+  {
+    "word": "a",
+    "start": 51.782,
+    "end": 51.87,
+    "confidence": 0.612,
+    "line_index": 19
+  },
+  {
+    "word": "neverending",
+    "start": 51.87,
+    "end": 53.15,
+    "confidence": 0.706,
+    "line_index": 19
+  },
+  {
+    "word": "dream",
+    "start": 53.15,
+    "end": 53.994,
+    "confidence": 0.658,
+    "line_index": 19
+  },
+  {
+    "word": "I",
+    "start": 53.994,
+    "end": 54.199,
+    "confidence": 0.882,
+    "line_index": 20
+  },
+  {
+    "word": "stepped",
+    "start": 54.199,
+    "end": 54.771,
+    "confidence": 0.39,
+    "line_index": 20
+  },
+  {
+    "word": "on",
+    "start": 54.771,
+    "end": 54.859,
+    "confidence": 0.933,
+    "line_index": 20
+  },
+  {
+    "word": "to",
+    "start": 54.859,
+    "end": 55.115,
+    "confidence": 0.689,
+    "line_index": 20
+  },
+  {
+    "word": "the",
+    "start": 55.115,
+    "end": 55.479,
+    "confidence": 0.88,
+    "line_index": 20
+  },
+  {
+    "word": "train",
+    "start": 55.479,
+    "end": 57.649,
+    "confidence": 0.879,
+    "line_index": 20
+  },
+  {
+    "word": "Surprised",
+    "start": 57.649,
+    "end": 58.24,
+    "confidence": 0.674,
+    "line_index": 21
+  },
+  {
+    "word": "by",
+    "start": 58.24,
+    "end": 58.48,
+    "confidence": 0.785,
+    "line_index": 21
+  },
+  {
+    "word": "mommy's",
+    "start": 58.48,
+    "end": 59.08,
+    "confidence": 0.652,
+    "line_index": 21
+  },
+  {
+    "word": "tears",
+    "start": 59.08,
+    "end": 59.58,
+    "confidence": 0.451,
+    "line_index": 21
+  },
+  {
+    "word": "With",
+    "start": 59.58,
+    "end": 60.66,
+    "confidence": 0.518,
+    "line_index": 22
+  },
+  {
+    "word": "you,",
+    "start": 60.66,
+    "end": 61.076,
+    "confidence": 0.37,
+    "line_index": 22
+  },
+  {
+    "word": "I",
+    "start": 61.076,
+    "end": 61.28,
+    "confidence": 0.859,
+    "line_index": 22
+  },
+  {
+    "word": "am",
+    "start": 61.28,
+    "end": 61.408,
+    "confidence": 0.221,
+    "line_index": 22
+  },
+  {
+    "word": "now",
+    "start": 61.408,
+    "end": 61.76,
+    "confidence": 0.328,
+    "line_index": 22
+  },
+  {
+    "word": "ready",
+    "start": 61.76,
+    "end": 62.3,
+    "confidence": 0.372,
+    "line_index": 22
+  },
+  {
+    "word": "to",
+    "start": 62.3,
+    "end": 62.56,
+    "confidence": 0.871,
+    "line_index": 22
+  },
+  {
+    "word": "prove",
+    "start": 62.56,
+    "end": 63.185,
+    "confidence": 0.442,
+    "line_index": 22
+  },
+  {
+    "word": "Life",
+    "start": 63.185,
+    "end": 63.56,
+    "confidence": 0.496,
+    "line_index": 23
+  },
+  {
+    "word": "is",
+    "start": 63.56,
+    "end": 63.68,
+    "confidence": 0.6,
+    "line_index": 23
+  },
+  {
+    "word": "worth",
+    "start": 63.68,
+    "end": 64.22,
+    "confidence": 0.426,
+    "line_index": 23
+  },
+  {
+    "word": "it",
+    "start": 64.22,
+    "end": 64.34,
+    "confidence": 0.581,
+    "line_index": 23
+  },
+  {
+    "word": "for",
+    "start": 64.34,
+    "end": 64.74,
+    "confidence": 0.162,
+    "line_index": 23
+  },
+  {
+    "word": "me",
+    "start": 64.74,
+    "end": 64.92,
+    "confidence": 0.751,
+    "line_index": 23
+  },
+  {
+    "word": "too",
+    "start": 64.92,
+    "end": 65.47,
+    "confidence": 0.701,
+    "line_index": 23
+  },
+  {
+    "word": "Though",
+    "start": 65.47,
+    "end": 65.88,
+    "confidence": 0.458,
+    "line_index": 24
+  },
+  {
+    "word": "the",
+    "start": 65.88,
+    "end": 66,
+    "confidence": 0.849,
+    "line_index": 24
+  },
+  {
+    "word": "city",
+    "start": 66,
+    "end": 66.78,
+    "confidence": 0.568,
+    "line_index": 24
+  },
+  {
+    "word": "may",
+    "start": 66.78,
+    "end": 67.08,
+    "confidence": 0.312,
+    "line_index": 24
+  },
+  {
+    "word": "be",
+    "start": 67.08,
+    "end": 67.26,
+    "confidence": 0.49,
+    "line_index": 24
+  },
+  {
+    "word": "cruel",
+    "start": 67.26,
+    "end": 68.89,
+    "confidence": 0.69,
+    "line_index": 24
+  },
+  {
+    "word": "The",
+    "start": 68.95,
+    "end": 69.6,
+    "confidence": 0.649,
+    "line_index": 25
+  },
+  {
+    "word": "truth",
+    "start": 69.6,
+    "end": 70.38,
+    "confidence": 0.723,
+    "line_index": 25
+  },
+  {
+    "word": "is",
+    "start": 70.38,
+    "end": 70.588,
+    "confidence": 0.857,
+    "line_index": 25
+  },
+  {
+    "word": "I",
+    "start": 70.588,
+    "end": 70.72,
+    "confidence": 0.333,
+    "line_index": 25
+  },
+  {
+    "word": "wanna",
+    "start": 70.72,
+    "end": 71.44,
+    "confidence": 0.68,
+    "line_index": 25
+  },
+  {
+    "word": "be",
+    "start": 71.44,
+    "end": 71.728,
+    "confidence": 0.761,
+    "line_index": 25
+  },
+  {
+    "word": "with",
+    "start": 71.728,
+    "end": 72.18,
+    "confidence": 0.451,
+    "line_index": 25
+  },
+  {
+    "word": "you",
+    "start": 72.18,
+    "end": 72.58,
+    "confidence": 0.197,
+    "line_index": 25
+  },
+  {
+    "word": "Yet",
+    "start": 72.58,
+    "end": 72.86,
+    "confidence": 0.286,
+    "line_index": 26
+  },
+  {
+    "word": "I",
+    "start": 72.86,
+    "end": 73.024,
+    "confidence": 0.658,
+    "line_index": 26
+  },
+  {
+    "word": "am",
+    "start": 73.024,
+    "end": 73.14,
+    "confidence": 0.418,
+    "line_index": 26
+  },
+  {
+    "word": "lost",
+    "start": 73.14,
+    "end": 73.588,
+    "confidence": 0.566,
+    "line_index": 26
+  },
+  {
+    "word": "in",
+    "start": 73.588,
+    "end": 73.76,
+    "confidence": 0.924,
+    "line_index": 26
+  },
+  {
+    "word": "deep,",
+    "start": 73.76,
+    "end": 74.12,
+    "confidence": 0.408,
+    "line_index": 26
+  },
+  {
+    "word": "deep",
+    "start": 74.12,
+    "end": 74.38,
+    "confidence": 0.332,
+    "line_index": 26
+  },
+  {
+    "word": "blue",
+    "start": 74.38,
+    "end": 75.01,
+    "confidence": 0.43,
+    "line_index": 26
+  },
+  {
+    "word": "On",
+    "start": 75.01,
+    "end": 75.28,
+    "confidence": 0.87,
+    "line_index": 27
+  },
+  {
+    "word": "the",
+    "start": 75.28,
+    "end": 75.46,
+    "confidence": 0.837,
+    "line_index": 27
+  },
+  {
+    "word": "wrong",
+    "start": 75.46,
+    "end": 75.84,
+    "confidence": 0.395,
+    "line_index": 27
+  },
+  {
+    "word": "side",
+    "start": 75.84,
+    "end": 76.26,
+    "confidence": 0.716,
+    "line_index": 27
+  },
+  {
+    "word": "of",
+    "start": 76.26,
+    "end": 76.44,
+    "confidence": 0.61,
+    "line_index": 27
+  },
+  {
+    "word": "the",
+    "start": 76.44,
+    "end": 76.752,
+    "confidence": 0.722,
+    "line_index": 27
+  },
+  {
+    "word": "moon",
+    "start": 76.752,
+    "end": 78.06,
+    "confidence": 0.693,
+    "line_index": 27
+  },
+  {
+    "word": "City",
+    "start": 78.06,
+    "end": 78.8,
+    "confidence": 0.403,
+    "line_index": 28
+  },
+  {
+    "word": "blue",
+    "start": 78.8,
+    "end": 79.106,
+    "confidence": 0.47,
+    "line_index": 28
+  },
+  {
+    "word": "\"Why",
+    "start": 79.106,
+    "end": 79.424,
+    "confidence": 0.389,
+    "line_index": 29
+  },
+  {
+    "word": "so",
+    "start": 79.424,
+    "end": 79.716,
+    "confidence": 0.761,
+    "line_index": 29
+  },
+  {
+    "word": "serious?\"",
+    "start": 79.716,
+    "end": 80.646,
+    "confidence": 0.584,
+    "line_index": 29
+  },
+  {
+    "word": "(Hahaha)",
+    "start": 80.7,
+    "end": 81.27,
+    "confidence": 0.114,
+    "line_index": 30
+  },
+  {
+    "word": "I",
+    "start": 81.27,
+    "end": 81.32,
+    "confidence": 0,
+    "line_index": 31
+  },
+  {
+    "word": "refused",
+    "start": 81.32,
+    "end": 81.74,
+    "confidence": 0.64,
+    "line_index": 31
+  },
+  {
+    "word": "to",
+    "start": 81.74,
+    "end": 81.94,
+    "confidence": 0.923,
+    "line_index": 31
+  },
+  {
+    "word": "laugh",
+    "start": 81.94,
+    "end": 82.38,
+    "confidence": 0.535,
+    "line_index": 31
+  },
+  {
+    "word": "at",
+    "start": 82.38,
+    "end": 82.52,
+    "confidence": 0.435,
+    "line_index": 31
+  },
+  {
+    "word": "my",
+    "start": 82.52,
+    "end": 82.99,
+    "confidence": 0.705,
+    "line_index": 31
+  },
+  {
+    "word": "reflection",
+    "start": 83.494,
+    "end": 84.43,
+    "confidence": 0.836,
+    "line_index": 31
+  },
+  {
+    "word": "in",
+    "start": 84.43,
+    "end": 84.64,
+    "confidence": 0.896,
+    "line_index": 31
+  },
+  {
+    "word": "the",
+    "start": 84.64,
+    "end": 84.78,
+    "confidence": 0.872,
+    "line_index": 31
+  },
+  {
+    "word": "mirror",
+    "start": 84.78,
+    "end": 85.5,
+    "confidence": 0.438,
+    "line_index": 31
+  },
+  {
+    "word": "So",
+    "start": 85.71,
+    "end": 86.02,
+    "confidence": 0.91,
+    "line_index": 32
+  },
+  {
+    "word": "they",
+    "start": 86.02,
+    "end": 86.14,
+    "confidence": 0.343,
+    "line_index": 32
+  },
+  {
+    "word": "smashed",
+    "start": 86.14,
+    "end": 86.524,
+    "confidence": 0.775,
+    "line_index": 32
+  },
+  {
+    "word": "us",
+    "start": 86.524,
+    "end": 86.792,
+    "confidence": 0.766,
+    "line_index": 32
+  },
+  {
+    "word": "into",
+    "start": 86.792,
+    "end": 87.2,
+    "confidence": 0.675,
+    "line_index": 32
+  },
+  {
+    "word": "pieces",
+    "start": 87.2,
+    "end": 88.35,
+    "confidence": 0.679,
+    "line_index": 32
+  },
+  {
+    "word": "Shivering",
+    "start": 88.35,
+    "end": 89.18,
+    "confidence": 0.859,
+    "line_index": 33
+  },
+  {
+    "word": "in",
+    "start": 89.18,
+    "end": 89.348,
+    "confidence": 0.565,
+    "line_index": 33
+  },
+  {
+    "word": "the",
+    "start": 89.348,
+    "end": 89.54,
+    "confidence": 0.913,
+    "line_index": 33
+  },
+  {
+    "word": "wind",
+    "start": 89.54,
+    "end": 90.3,
+    "confidence": 0.777,
+    "line_index": 33
+  },
+  {
+    "word": "I",
+    "start": 90.535,
+    "end": 90.813,
+    "confidence": 0.882,
+    "line_index": 34
+  },
+  {
+    "word": "set",
+    "start": 90.813,
+    "end": 91.145,
+    "confidence": 0.669,
+    "line_index": 34
+  },
+  {
+    "word": "my",
+    "start": 91.145,
+    "end": 91.401,
+    "confidence": 0.191,
+    "line_index": 34
+  },
+  {
+    "word": "books",
+    "start": 91.401,
+    "end": 91.789,
+    "confidence": 0.813,
+    "line_index": 34
+  },
+  {
+    "word": "on",
+    "start": 91.789,
+    "end": 91.915,
+    "confidence": 0.515,
+    "line_index": 34
+  },
+  {
+    "word": "fire",
+    "start": 91.915,
+    "end": 92.685,
+    "confidence": 0.578,
+    "line_index": 34
+  },
+  {
+    "word": "’Cause",
+    "start": 93.015,
+    "end": 93.236,
+    "confidence": 0.038,
+    "line_index": 35
+  },
+  {
+    "word": "literacy",
+    "start": 93.236,
+    "end": 93.796,
+    "confidence": 0.432,
+    "line_index": 35
+  },
+  {
+    "word": "ain't",
+    "start": 93.796,
+    "end": 94.072,
+    "confidence": 0.497,
+    "line_index": 35
+  },
+  {
+    "word": "the",
+    "start": 94.072,
+    "end": 94.34,
+    "confidence": 0,
+    "line_index": 35
+  },
+  {
+    "word": "currency",
+    "start": 94.34,
+    "end": 95.264,
+    "confidence": 0.541,
+    "line_index": 35
+  },
+  {
+    "word": "of",
+    "start": 95.264,
+    "end": 95.424,
+    "confidence": 0.836,
+    "line_index": 35
+  },
+  {
+    "word": "the",
+    "start": 95.424,
+    "end": 95.536,
+    "confidence": 0.905,
+    "line_index": 35
+  },
+  {
+    "word": "city",
+    "start": 95.536,
+    "end": 96.226,
+    "confidence": 0.492,
+    "line_index": 35
+  },
+  {
+    "word": "Again",
+    "start": 104.684,
+    "end": 105.702,
+    "confidence": 0.672,
+    "line_index": 36
+  },
+  {
+    "word": "and",
+    "start": 105.702,
+    "end": 106.112,
+    "confidence": 0.734,
+    "line_index": 36
+  },
+  {
+    "word": "again",
+    "start": 106.112,
+    "end": 106.512,
+    "confidence": 0.653,
+    "line_index": 36
+  },
+  {
+    "word": "in",
+    "start": 106.512,
+    "end": 106.752,
+    "confidence": 0.739,
+    "line_index": 36
+  },
+  {
+    "word": "my",
+    "start": 106.752,
+    "end": 106.982,
+    "confidence": 0.189,
+    "line_index": 36
+  },
+  {
+    "word": "head",
+    "start": 106.982,
+    "end": 109.365,
+    "confidence": 0.506,
+    "line_index": 36
+  },
+  {
+    "word": "Wondering,",
+    "start": 109.365,
+    "end": 109.95,
+    "confidence": 0.664,
+    "line_index": 37
+  },
+  {
+    "word": "wondering",
+    "start": 109.95,
+    "end": 110.546,
+    "confidence": 0.672,
+    "line_index": 37
+  },
+  {
+    "word": "what",
+    "start": 110.546,
+    "end": 110.738,
+    "confidence": 0.228,
+    "line_index": 37
+  },
+  {
+    "word": "happens",
+    "start": 110.738,
+    "end": 111.262,
+    "confidence": 0.699,
+    "line_index": 37
+  },
+  {
+    "word": "in",
+    "start": 111.262,
+    "end": 111.594,
+    "confidence": 0.967,
+    "line_index": 37
+  },
+  {
+    "word": "the",
+    "start": 111.594,
+    "end": 112.162,
+    "confidence": 0.654,
+    "line_index": 37
+  },
+  {
+    "word": "end",
+    "start": 112.162,
+    "end": 113.1,
+    "confidence": 0.611,
+    "line_index": 37
+  },
+  {
+    "word": "In",
+    "start": 113.1,
+    "end": 113.285,
+    "confidence": 0.735,
+    "line_index": 38
+  },
+  {
+    "word": "that",
+    "start": 113.285,
+    "end": 113.445,
+    "confidence": 0.399,
+    "line_index": 38
+  },
+  {
+    "word": "burned",
+    "start": 113.445,
+    "end": 113.637,
+    "confidence": 0.321,
+    "line_index": 38
+  },
+  {
+    "word": "chapter",
+    "start": 113.637,
+    "end": 114.209,
+    "confidence": 0.609,
+    "line_index": 38
+  },
+  {
+    "word": "Just",
+    "start": 114.209,
+    "end": 114.468,
+    "confidence": 0.449,
+    "line_index": 39
+  },
+  {
+    "word": "let",
+    "start": 114.468,
+    "end": 114.784,
+    "confidence": 0.646,
+    "line_index": 39
+  },
+  {
+    "word": "me",
+    "start": 114.784,
+    "end": 114.92,
+    "confidence": 0.653,
+    "line_index": 39
+  },
+  {
+    "word": "finish",
+    "start": 114.92,
+    "end": 115.508,
+    "confidence": 0.674,
+    "line_index": 39
+  },
+  {
+    "word": "the",
+    "start": 115.508,
+    "end": 115.644,
+    "confidence": 0.778,
+    "line_index": 39
+  },
+  {
+    "word": "story",
+    "start": 115.644,
+    "end": 116.539,
+    "confidence": 0.827,
+    "line_index": 39
+  },
+  {
+    "word": "And",
+    "start": 116.539,
+    "end": 116.72,
+    "confidence": 0.352,
+    "line_index": 40
+  },
+  {
+    "word": "shed",
+    "start": 116.72,
+    "end": 117.036,
+    "confidence": 0.725,
+    "line_index": 40
+  },
+  {
+    "word": "some",
+    "start": 117.036,
+    "end": 117.34,
+    "confidence": 0.608,
+    "line_index": 40
+  },
+  {
+    "word": "lonely",
+    "start": 117.34,
+    "end": 117.892,
+    "confidence": 0.67,
+    "line_index": 40
+  },
+  {
+    "word": "tears",
+    "start": 117.892,
+    "end": 118.75,
+    "confidence": 0.463,
+    "line_index": 40
+  },
+  {
+    "word": "It's",
+    "start": 118.75,
+    "end": 119.12,
+    "confidence": 0.259,
+    "line_index": 41
+  },
+  {
+    "word": "you,",
+    "start": 119.12,
+    "end": 119.3,
+    "confidence": 0.497,
+    "line_index": 41
+  },
+  {
+    "word": "always",
+    "start": 119.3,
+    "end": 120.196,
+    "confidence": 0.25,
+    "line_index": 41
+  },
+  {
+    "word": "regulating",
+    "start": 120.196,
+    "end": 121.2,
+    "confidence": 0.508,
+    "line_index": 41
+  },
+  {
+    "word": "my",
+    "start": 121.2,
+    "end": 121.48,
+    "confidence": 0.23,
+    "line_index": 41
+  },
+  {
+    "word": "mood",
+    "start": 121.48,
+    "end": 122.15,
+    "confidence": 0.155,
+    "line_index": 41
+  },
+  {
+    "word": "I",
+    "start": 122.23,
+    "end": 122.46,
+    "confidence": 0.337,
+    "line_index": 42
+  },
+  {
+    "word": "am",
+    "start": 122.46,
+    "end": 122.636,
+    "confidence": 0.365,
+    "line_index": 42
+  },
+  {
+    "word": "addicted",
+    "start": 122.636,
+    "end": 123.5,
+    "confidence": 0.572,
+    "line_index": 42
+  },
+  {
+    "word": "to",
+    "start": 123.5,
+    "end": 123.66,
+    "confidence": 0.686,
+    "line_index": 42
+  },
+  {
+    "word": "you",
+    "start": 123.66,
+    "end": 124.35,
+    "confidence": 0.58,
+    "line_index": 42
+  },
+  {
+    "word": "I",
+    "start": 124.5,
+    "end": 124.762,
+    "confidence": 0.764,
+    "line_index": 43
+  },
+  {
+    "word": "am",
+    "start": 124.762,
+    "end": 125.058,
+    "confidence": 0.536,
+    "line_index": 43
+  },
+  {
+    "word": "addicted",
+    "start": 125.058,
+    "end": 125.838,
+    "confidence": 0.597,
+    "line_index": 43
+  },
+  {
+    "word": "to",
+    "start": 125.838,
+    "end": 126.146,
+    "confidence": 0.491,
+    "line_index": 43
+  },
+  {
+    "word": "you",
+    "start": 126.146,
+    "end": 127.72,
+    "confidence": 0.506,
+    "line_index": 43
+  },
+  {
+    "word": "The",
+    "start": 127.793,
+    "end": 128.407,
+    "confidence": 0.788,
+    "line_index": 44
+  },
+  {
+    "word": "truth",
+    "start": 128.407,
+    "end": 129.191,
+    "confidence": 0.776,
+    "line_index": 44
+  },
+  {
+    "word": "is",
+    "start": 129.191,
+    "end": 129.459,
+    "confidence": 0.677,
+    "line_index": 44
+  },
+  {
+    "word": "I",
+    "start": 129.459,
+    "end": 129.579,
+    "confidence": 0.536,
+    "line_index": 44
+  },
+  {
+    "word": "wanna",
+    "start": 129.579,
+    "end": 130.279,
+    "confidence": 0.632,
+    "line_index": 44
+  },
+  {
+    "word": "be",
+    "start": 130.279,
+    "end": 130.547,
+    "confidence": 0.7,
+    "line_index": 44
+  },
+  {
+    "word": "fearless",
+    "start": 130.547,
+    "end": 131.332,
+    "confidence": 0.302,
+    "line_index": 44
+  },
+  {
+    "word": "Not",
+    "start": 131.332,
+    "end": 131.82,
+    "confidence": 0.685,
+    "line_index": 45
+  },
+  {
+    "word": "afraid",
+    "start": 131.82,
+    "end": 132.3,
+    "confidence": 0.35,
+    "line_index": 45
+  },
+  {
+    "word": "to",
+    "start": 132.3,
+    "end": 132.628,
+    "confidence": 0.578,
+    "line_index": 45
+  },
+  {
+    "word": "say",
+    "start": 132.628,
+    "end": 132.9,
+    "confidence": 0.39,
+    "line_index": 45
+  },
+  {
+    "word": "I",
+    "start": 132.9,
+    "end": 132.94,
+    "confidence": 0.564,
+    "line_index": 45
+  },
+  {
+    "word": "love",
+    "start": 132.94,
+    "end": 133.24,
+    "confidence": 0.23,
+    "line_index": 45
+  },
+  {
+    "word": "you",
+    "start": 133.24,
+    "end": 133.73,
+    "confidence": 0.307,
+    "line_index": 45
+  },
+  {
+    "word": "Not",
+    "start": 133.73,
+    "end": 134.148,
+    "confidence": 0.875,
+    "line_index": 46
+  },
+  {
+    "word": "ashamed",
+    "start": 134.148,
+    "end": 134.54,
+    "confidence": 0.291,
+    "line_index": 46
+  },
+  {
+    "word": "of",
+    "start": 134.54,
+    "end": 134.684,
+    "confidence": 0.105,
+    "line_index": 46
+  },
+  {
+    "word": "dreams",
+    "start": 134.684,
+    "end": 135.128,
+    "confidence": 0.49,
+    "line_index": 46
+  },
+  {
+    "word": "I",
+    "start": 135.128,
+    "end": 135.24,
+    "confidence": 0.796,
+    "line_index": 46
+  },
+  {
+    "word": "pursued",
+    "start": 135.24,
+    "end": 136.05,
+    "confidence": 0.494,
+    "line_index": 46
+  },
+  {
+    "word": "(Not",
+    "start": 136.126,
+    "end": 136.388,
+    "confidence": 0.468,
+    "line_index": 47
+  },
+  {
+    "word": "ashamed,",
+    "start": 136.388,
+    "end": 136.668,
+    "confidence": 0.363,
+    "line_index": 47
+  },
+  {
+    "word": "I'm",
+    "start": 136.668,
+    "end": 136.808,
+    "confidence": 0.265,
+    "line_index": 47
+  },
+  {
+    "word": "not",
+    "start": 136.808,
+    "end": 137.08,
+    "confidence": 0.573,
+    "line_index": 47
+  },
+  {
+    "word": "ashamed",
+    "start": 137.08,
+    "end": 137.688,
+    "confidence": 0.442,
+    "line_index": 47
+  },
+  {
+    "word": "of",
+    "start": 137.688,
+    "end": 137.84,
+    "confidence": 0.529,
+    "line_index": 47
+  },
+  {
+    "word": "you)",
+    "start": 137.84,
+    "end": 138.148,
+    "confidence": 0.333,
+    "line_index": 47
+  },
+  {
+    "word": "With",
+    "start": 138.148,
+    "end": 138.44,
+    "confidence": 0.448,
+    "line_index": 48
+  },
+  {
+    "word": "you,",
+    "start": 138.44,
+    "end": 138.8,
+    "confidence": 0.033,
+    "line_index": 48
+  },
+  {
+    "word": "I",
+    "start": 138.8,
+    "end": 138.928,
+    "confidence": 0.732,
+    "line_index": 48
+  },
+  {
+    "word": "am",
+    "start": 138.928,
+    "end": 139.02,
+    "confidence": 0.272,
+    "line_index": 48
+  },
+  {
+    "word": "now",
+    "start": 139.02,
+    "end": 139.32,
+    "confidence": 0.383,
+    "line_index": 48
+  },
+  {
+    "word": "ready",
+    "start": 139.32,
+    "end": 139.96,
+    "confidence": 0.571,
+    "line_index": 48
+  },
+  {
+    "word": "to",
+    "start": 139.96,
+    "end": 140.292,
+    "confidence": 0.821,
+    "line_index": 48
+  },
+  {
+    "word": "prove",
+    "start": 140.292,
+    "end": 140.63,
+    "confidence": 0.48,
+    "line_index": 48
+  },
+  {
+    "word": "Life",
+    "start": 140.63,
+    "end": 141.12,
+    "confidence": 0.446,
+    "line_index": 49
+  },
+  {
+    "word": "is",
+    "start": 141.12,
+    "end": 141.3,
+    "confidence": 0.53,
+    "line_index": 49
+  },
+  {
+    "word": "worth",
+    "start": 141.3,
+    "end": 141.62,
+    "confidence": 0.426,
+    "line_index": 49
+  },
+  {
+    "word": "it",
+    "start": 141.62,
+    "end": 141.972,
+    "confidence": 0.453,
+    "line_index": 49
+  },
+  {
+    "word": "for",
+    "start": 141.972,
+    "end": 142.34,
+    "confidence": 0.691,
+    "line_index": 49
+  },
+  {
+    "word": "me",
+    "start": 142.34,
+    "end": 142.62,
+    "confidence": 0.507,
+    "line_index": 49
+  },
+  {
+    "word": "too",
+    "start": 142.62,
+    "end": 143.14,
+    "confidence": 0.759,
+    "line_index": 49
+  },
+  {
+    "word": "Though",
+    "start": 143.14,
+    "end": 143.64,
+    "confidence": 0.409,
+    "line_index": 50
+  },
+  {
+    "word": "the",
+    "start": 143.64,
+    "end": 143.86,
+    "confidence": 0.545,
+    "line_index": 50
+  },
+  {
+    "word": "city",
+    "start": 143.86,
+    "end": 144.404,
+    "confidence": 0.535,
+    "line_index": 50
+  },
+  {
+    "word": "may",
+    "start": 144.404,
+    "end": 144.716,
+    "confidence": 0.432,
+    "line_index": 50
+  },
+  {
+    "word": "be",
+    "start": 144.716,
+    "end": 144.964,
+    "confidence": 0.628,
+    "line_index": 50
+  },
+  {
+    "word": "cruel",
+    "start": 144.964,
+    "end": 145.32,
+    "confidence": 0.358,
+    "line_index": 50
+  },
+  {
+    "word": "(Oh,",
+    "start": 145.32,
+    "end": 145.4,
+    "confidence": 0.206,
+    "line_index": 51
+  },
+  {
+    "word": "it's",
+    "start": 145.4,
+    "end": 145.78,
+    "confidence": 0.214,
+    "line_index": 51
+  },
+  {
+    "word": "cruel,",
+    "start": 145.78,
+    "end": 146.14,
+    "confidence": 0.441,
+    "line_index": 51
+  },
+  {
+    "word": "I",
+    "start": 146.14,
+    "end": 146.16,
+    "confidence": 0,
+    "line_index": 51
+  },
+  {
+    "word": "know",
+    "start": 146.16,
+    "end": 146.46,
+    "confidence": 0.309,
+    "line_index": 51
+  },
+  {
+    "word": "it's",
+    "start": 146.46,
+    "end": 146.616,
+    "confidence": 0.126,
+    "line_index": 51
+  },
+  {
+    "word": "cruel)",
+    "start": 146.616,
+    "end": 147.12,
+    "confidence": 0.321,
+    "line_index": 51
+  },
+  {
+    "word": "The",
+    "start": 147.12,
+    "end": 147.296,
+    "confidence": 0.648,
+    "line_index": 52
+  },
+  {
+    "word": "truth",
+    "start": 147.296,
+    "end": 148.052,
+    "confidence": 0.757,
+    "line_index": 52
+  },
+  {
+    "word": "is",
+    "start": 148.052,
+    "end": 148.26,
+    "confidence": 0.697,
+    "line_index": 52
+  },
+  {
+    "word": "I",
+    "start": 148.26,
+    "end": 148.368,
+    "confidence": 0.344,
+    "line_index": 52
+  },
+  {
+    "word": "wanna",
+    "start": 148.368,
+    "end": 148.808,
+    "confidence": 0.324,
+    "line_index": 52
+  },
+  {
+    "word": "be",
+    "start": 148.808,
+    "end": 149.04,
+    "confidence": 0.539,
+    "line_index": 52
+  },
+  {
+    "word": "with",
+    "start": 149.04,
+    "end": 149.564,
+    "confidence": 0.382,
+    "line_index": 52
+  },
+  {
+    "word": "you",
+    "start": 149.564,
+    "end": 149.99,
+    "confidence": 0.341,
+    "line_index": 52
+  },
+  {
+    "word": "Let",
+    "start": 149.99,
+    "end": 150.508,
+    "confidence": 0.456,
+    "line_index": 53
+  },
+  {
+    "word": "us",
+    "start": 150.508,
+    "end": 150.74,
+    "confidence": 0.436,
+    "line_index": 53
+  },
+  {
+    "word": "dive",
+    "start": 150.74,
+    "end": 151.3,
+    "confidence": 0.378,
+    "line_index": 53
+  },
+  {
+    "word": "in",
+    "start": 151.3,
+    "end": 151.452,
+    "confidence": 0.836,
+    "line_index": 53
+  },
+  {
+    "word": "deep,",
+    "start": 151.452,
+    "end": 151.756,
+    "confidence": 0.456,
+    "line_index": 53
+  },
+  {
+    "word": "deep",
+    "start": 151.756,
+    "end": 152.04,
+    "confidence": 0.414,
+    "line_index": 53
+  },
+  {
+    "word": "blue",
+    "start": 152.04,
+    "end": 152.32,
+    "confidence": 0.209,
+    "line_index": 53
+  },
+  {
+    "word": "Stay",
+    "start": 152.32,
+    "end": 152.744,
+    "confidence": 0.487,
+    "line_index": 54
+  },
+  {
+    "word": "on",
+    "start": 152.744,
+    "end": 152.96,
+    "confidence": 0.467,
+    "line_index": 54
+  },
+  {
+    "word": "the",
+    "start": 152.96,
+    "end": 153.12,
+    "confidence": 0.614,
+    "line_index": 54
+  },
+  {
+    "word": "wrong",
+    "start": 153.12,
+    "end": 153.46,
+    "confidence": 0.436,
+    "line_index": 54
+  },
+  {
+    "word": "side",
+    "start": 153.46,
+    "end": 153.94,
+    "confidence": 0.538,
+    "line_index": 54
+  },
+  {
+    "word": "of",
+    "start": 153.94,
+    "end": 154.1,
+    "confidence": 0.684,
+    "line_index": 54
+  },
+  {
+    "word": "the",
+    "start": 154.1,
+    "end": 154.364,
+    "confidence": 0.645,
+    "line_index": 54
+  },
+  {
+    "word": "moon",
+    "start": 154.364,
+    "end": 154.72,
+    "confidence": 0.467,
+    "line_index": 54
+  },
+  {
+    "word": "(Tututilila)",
+    "start": 154.72,
+    "end": 155.75,
+    "confidence": 0.432,
+    "line_index": 55
+  },
+  {
+    "word": "City",
+    "start": 155.75,
+    "end": 156.444,
+    "confidence": 0.742,
+    "line_index": 56
+  },
+  {
+    "word": "Blue",
+    "start": 156.444,
+    "end": 157.58,
+    "confidence": 0.623,
+    "line_index": 56
+  }
+]

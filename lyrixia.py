@@ -401,8 +401,10 @@ def renderTiktok(inputText, delay=1):
         time.sleep(delay)
 
 # 1 -> Line, 2 -> Lines
-jsonPATH = "./CityBlue/mili_cityblue.json"
-mp3PATH = "./CityBlue/mili_cityblue_fixed.mp3"
+
+# PLACE FILES HERE
+jsonPATH = "./MerryChristmasPDC/mcpdc.json"
+mp3PATH = "./MerryChristmasPDC/mcpdc.mp3"
 
 with open(jsonPATH, encoding="utf-8") as f:
     data = json.load(f)
@@ -411,6 +413,7 @@ pygame.mixer.init()
 pygame.mixer.music.load(mp3PATH)
 
 clear_terminal()
+
 currentLine = ""
 lines = []
 delays = []
@@ -421,6 +424,7 @@ for line in data:
         delays.append(w["delay"])
     lines += [currentLine]
     currentLine = ""
+    
 currentWord = 0
 pygame.mixer.music.play()
 for line in range(len(lines)):

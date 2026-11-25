@@ -1,0 +1,206 @@
+{
+  "format": "lyric-blocks",
+  "version": 1,
+  "lines_per_block": 4,
+  "times_in": "seconds",
+  "fields": {
+    "start": "when to show the block: halfway through the silence before its first line, or 1 s before its first word when that silence is 2 s or longer (the first block: its first word)",
+    "end": "when to hide the block: halfway through the silence after its last line, or 1 s after its last word when that silence is 2 s or longer (the last block: its last word)",
+    "last_word_end": "when the block's last word finishes",
+    "next_block_start": "when the next block starts (the last block: its end)"
+  },
+  "blocks": [
+    {
+      "block": 1,
+      "start": 2.99,
+      "end": 11.651,
+      "last_word_end": 10.983,
+      "next_block_start": 12.319,
+      "lines": [
+        "To the right",
+        "To the left",
+        "Count to three",
+        "Eyes on me"
+      ]
+    },
+    {
+      "block": 2,
+      "start": 12.319,
+      "end": 21.998,
+      "last_word_end": 21.765,
+      "next_block_start": 22.231,
+      "lines": [
+        "Raise it high",
+        "Wave goodbye to the city",
+        "Are you ready?",
+        "\"What a genius\""
+      ]
+    },
+    {
+      "block": 3,
+      "start": 22.231,
+      "end": 31.36,
+      "last_word_end": 31.36,
+      "next_block_start": 31.36,
+      "lines": [
+        "\"Someday you'll be on top\"",
+        "\"Of a corporate ladder\"",
+        "Excitedly, mommy said",
+        "She might have exaggerated"
+      ]
+    },
+    {
+      "block": 4,
+      "start": 31.36,
+      "end": 43.52,
+      "last_word_end": 43.52,
+      "next_block_start": 43.52,
+      "lines": [
+        "’Cause I'm falling behind",
+        "Oversensitive heart under a white shirt",
+        "There must be some hidden talent",
+        "In this strange imaginative mind"
+      ]
+    },
+    {
+      "block": 5,
+      "start": 43.52,
+      "end": 53.994,
+      "last_word_end": 53.994,
+      "next_block_start": 53.994,
+      "lines": [
+        "Enlighten me, enlighten me",
+        "I reached out to your spine",
+        "There must be a fiction meant for me",
+        "Pages in hand, a neverending dream"
+      ]
+    },
+    {
+      "block": 6,
+      "start": 53.994,
+      "end": 65.47,
+      "last_word_end": 65.47,
+      "next_block_start": 65.47,
+      "lines": [
+        "I stepped on to the train",
+        "Surprised by mommy's tears",
+        "With you, I am now ready to prove",
+        "Life is worth it for me too"
+      ]
+    },
+    {
+      "block": 7,
+      "start": 65.47,
+      "end": 78.06,
+      "last_word_end": 78.06,
+      "next_block_start": 78.06,
+      "lines": [
+        "Though the city may be cruel",
+        "The truth is I wanna be with you",
+        "Yet I am lost in deep, deep blue",
+        "On the wrong side of the moon"
+      ]
+    },
+    {
+      "block": 8,
+      "start": 78.06,
+      "end": 85.605,
+      "last_word_end": 85.5,
+      "next_block_start": 85.605,
+      "lines": [
+        "City blue",
+        "\"Why so serious?\"",
+        "(Hahaha)",
+        "I refused to laugh at my reflection in the mirror"
+      ]
+    },
+    {
+      "block": 9,
+      "start": 85.605,
+      "end": 104.684,
+      "last_word_end": 96.226,
+      "next_block_start": 104.684,
+      "lines": [
+        "So they smashed us into pieces",
+        "Shivering in the wind",
+        "I set my books on fire",
+        "’Cause literacy ain't the currency of the city"
+      ]
+    },
+    {
+      "block": 10,
+      "start": 104.684,
+      "end": 116.539,
+      "last_word_end": 116.539,
+      "next_block_start": 116.539,
+      "lines": [
+        "Again and again in my head",
+        "Wondering, wondering what happens in the end",
+        "In that burned chapter",
+        "Just let me finish the story"
+      ]
+    },
+    {
+      "block": 11,
+      "start": 116.539,
+      "end": 127.757,
+      "last_word_end": 127.72,
+      "next_block_start": 127.793,
+      "lines": [
+        "And shed some lonely tears",
+        "It's you, always regulating my mood",
+        "I am addicted to you",
+        "I am addicted to you"
+      ]
+    },
+    {
+      "block": 12,
+      "start": 127.793,
+      "end": 138.148,
+      "last_word_end": 138.148,
+      "next_block_start": 138.148,
+      "lines": [
+        "The truth is I wanna be fearless",
+        "Not afraid to say I love you",
+        "Not ashamed of dreams I pursued",
+        "(Not ashamed, I'm not ashamed of you)"
+      ]
+    },
+    {
+      "block": 13,
+      "start": 138.148,
+      "end": 147.12,
+      "last_word_end": 147.12,
+      "next_block_start": 147.12,
+      "lines": [
+        "With you, I am now ready to prove",
+        "Life is worth it for me too",
+        "Though the city may be cruel",
+        "(Oh, it's cruel, I know it's cruel)"
+      ]
+    },
+    {
+      "block": 14,
+      "start": 147.12,
+      "end": 155.75,
+      "last_word_end": 155.75,
+      "next_block_start": 155.75,
+      "lines": [
+        "The truth is I wanna be with you",
+        "Let us dive in deep, deep blue",
+        "Stay on the wrong side of the moon",
+        "(Tututilila)"
+      ]
+    },
+    {
+      "block": 15,
+      "start": 155.75,
+      "end": 157.58,
+      "last_word_end": 157.58,
+      "next_block_start": 157.58,
+      "lines": [
+        "City Blue"
+      ]
+    }
+  ]
+}
