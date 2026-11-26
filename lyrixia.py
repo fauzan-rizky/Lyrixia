@@ -110,7 +110,6 @@ def renderTiktok(inputText, delay=1):
                     longBuffers[buffer][fh] += alphabet['EMPTY']
             # print(*longBuffers[buffer][fh], sep='')
 
-    
     with terminal_lock:
      
          render_ui(term.width, term.height)
@@ -139,8 +138,8 @@ def renderTiktok(inputText, delay=1):
 # 1 -> Line, 2 -> Lines
 
 # PLACE FILES HERE
-jsonPATH = "./MerryChristmasPDC/mcpdc.json"
-mp3PATH = "./MerryChristmasPDC/mcpdc.mp3"
+jsonPATH = "./HighForever/HighForever.json"
+mp3PATH = "./HighForever/HighForever.mp3"
 
 with open(jsonPATH, encoding="utf-8") as f:
     data = json.load(f)

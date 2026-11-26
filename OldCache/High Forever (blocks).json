@@ -1,0 +1,105 @@
+{
+  "format": "lyric-blocks",
+  "version": 1,
+  "lines_per_block": 4,
+  "times_in": "seconds",
+  "fields": {
+    "start": "when to show the block: halfway through the silence before its first line, or 1 s before its first word when that silence is 2 s or longer (the first block: its first word)",
+    "end": "when to hide the block: halfway through the silence after its last line, or 1 s after its last word when that silence is 2 s or longer (the last block: its last word)",
+    "last_word_end": "when the block's last word finishes",
+    "next_block_start": "when the next block starts (the last block: its end)"
+  },
+  "blocks": [
+    {
+      "block": 1,
+      "start": 9.856,
+      "end": 31.384,
+      "last_word_end": 29.845,
+      "next_block_start": 31.384,
+      "lines": [
+        "I just wanna call you, I just wanna say",
+        "I just wanna love you, you are far away",
+        "Only when I see you, things are making sense",
+        "I just wanna bother you in the middle of the day"
+      ]
+    },
+    {
+      "block": 2,
+      "start": 31.384,
+      "end": 55.111,
+      "last_word_end": 54.111,
+      "next_block_start": 56.788,
+      "lines": [
+        "Spend this time with me 'cause life is short",
+        "But we are high forever",
+        "Spend this time with me 'cause life is short",
+        "But we are high forever"
+      ]
+    },
+    {
+      "block": 3,
+      "start": 56.788,
+      "end": 67.907,
+      "last_word_end": 67.029,
+      "next_block_start": 67.907,
+      "lines": [
+        "When you gonna find me?",
+        "When you gonna stay?",
+        "You are always going",
+        "Then coming at your way"
+      ]
+    },
+    {
+      "block": 4,
+      "start": 67.907,
+      "end": 114.87,
+      "last_word_end": 98.578,
+      "next_block_start": 114.87,
+      "lines": [
+        "Spend this time with me 'cause life is short",
+        "But we are high forever",
+        "Spend this time with me 'cause life is short",
+        "But we are high forever"
+      ]
+    },
+    {
+      "block": 5,
+      "start": 114.87,
+      "end": 136.003,
+      "last_word_end": 135.983,
+      "next_block_start": 136.003,
+      "lines": [
+        "Spend this time with me 'cause life is short",
+        "But we are high forever",
+        "Spend this time with me 'cause life is short",
+        "But we are high forever"
+      ]
+    },
+    {
+      "block": 6,
+      "start": 136.003,
+      "end": 167.644,
+      "last_word_end": 167.61,
+      "next_block_start": 167.678,
+      "lines": [
+        "Ha",
+        "(Forever)",
+        "(Forever)",
+        "Spend this time with me 'cause life is short"
+      ]
+    },
+    {
+      "block": 7,
+      "start": 167.678,
+      "end": 219.13,
+      "last_word_end": 219.13,
+      "next_block_start": 219.13,
+      "lines": [
+        "But we are high forever",
+        "Spend this time with me 'cause life is short",
+        "But we are high forever",
+        "Ha"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+[
+  {
+    "words": [
+      {
+        "text": "HIGH_FOREVER",
+        "delay": 5
+      }
+    ]
+  },
+  {
+    "words" : [
+      {
+        "text": "...",
+        "delay": 4.856
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "I",
+        "delay": 0.164
+      },
+      {
+        "text": "JUST",
+        "delay": 0.251
+      },
+      {
+        "text": "WANNA",
+        "delay": 0.351
+      },
+      {
+        "text": "CALL",
+        "delay": 0.374
+      },
+      {
+        "text": "YOU,",
+        "delay": 1.414
+      },
+      {
+        "text": "I",
+        "delay": 0.165
+      },
+      {
+        "text": "JUST",
+        "delay": 0.221
+      },
+      {
+        "text": "WANNA",
+        "delay": 0.328
+      },
+      {
+        "text": "SAY",
+        "delay": 1.926
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "I",
+        "delay": 0.165
+      },
+      {
+        "text": "JUST",
+        "delay": 0.233
+      },
+      {
+        "text": "WANNA",
+        "delay": 0.285
+      },
+      {
+        "text": "LOVE",
+        "delay": 0.557
+      },
+      {
+        "text": "YOU,",
+        "delay": 1.386
+      },
+      {
+        "text": "YOU",
+        "delay": 0.214
+      },
+      {
+        "text": "ARE",
+        "delay": 0.191
+      },
+      {
+        "text": "FAR",
+        "delay": 0.306
+      },
+      {
+        "text": "AWAY",
+        "delay": 1.796
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "ONLY",
+        "delay": 0.389
+      },
+      {
+        "text": "WHEN",
+        "delay": 0.254
+      },
+      {
+        "text": "I",
+        "delay": 0.097
+      },
+      {
+        "text": "SEE",
+        "delay": 0.52
+      },
+      {
+        "text": "YOU,",
+        "delay": 1.255
+      },
+      {
+        "text": "THINGS",
+        "delay": 0.332
+      },
+      {
+        "text": "ARE",
+        "delay": 0.171
+      },
+      {
+        "text": "MAKING",
+        "delay": 0.433
+      },
+      {
+        "text": "SENSE",
+        "delay": 1.883
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "I",
+        "delay": 0.173
+      },
+      {
+        "text": "JUST",
+        "delay": 0.189
+      },
+      {
+        "text": "WANNA",
+        "delay": 0.298
+      },
+      {
+        "text": "BOTHER",
+        "delay": 0.523
+      },
+      {
+        "text": "YOU",
+        "delay": 1.129
+      },
+      {
+        "text": "IN",
+        "delay": 0.094
+      },
+      {
+        "text": "THE",
+        "delay": 0.175
+      },
+      {
+        "text": "MIDDLE",
+        "delay": 0.303
+      },
+      {
+        "text": "OF",
+        "delay": 0.228
+      },
+      {
+        "text": "THE",
+        "delay": 0.172
+      },
+      {
+        "text": "DAY",
+        "delay": 2.583
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.758
+      },
+      {
+        "text": "THIS",
+        "delay": 0.598
+      },
+      {
+        "text": "TIME",
+        "delay": 0.861
+      },
+      {
+        "text": "WITH",
+        "delay": 0.406
+      },
+      {
+        "text": "ME",
+        "delay": 0.702
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.624
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.802
+      },
+      {
+        "text": "IS",
+        "delay": 0.5
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.648
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.613
+      },
+      {
+        "text": "WE",
+        "delay": 0.659
+      },
+      {
+        "text": "ARE",
+        "delay": 0.663
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.746
+      },
+      {
+        "text": "FOREVER",
+        "delay": 1.884
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.702
+      },
+      {
+        "text": "THIS",
+        "delay": 0.597
+      },
+      {
+        "text": "TIME",
+        "delay": 0.717
+      },
+      {
+        "text": "WITH",
+        "delay": 0.567
+      },
+      {
+        "text": "ME",
+        "delay": 0.706
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.531
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.761
+      },
+      {
+        "text": "IS",
+        "delay": 0.611
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.661
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.663
+      },
+      {
+        "text": "WE",
+        "delay": 0.652
+      },
+      {
+        "text": "ARE",
+        "delay": 0.642
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.663
+      },
+      {
+        "text": "FOREVER",
+        "delay": 6.467
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "WHEN",
+        "delay": 0.168
+      },
+      {
+        "text": "YOU",
+        "delay": 0.168
+      },
+      {
+        "text": "GONNA",
+        "delay": 0.361
+      },
+      {
+        "text": "FIND",
+        "delay": 0.511
+      },
+      {
+        "text": "ME?",
+        "delay": 1.433
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "WHEN",
+        "delay": 0.153
+      },
+      {
+        "text": "YOU",
+        "delay": 0.17
+      },
+      {
+        "text": "GONNA",
+        "delay": 0.436
+      },
+      {
+        "text": "STAY?",
+        "delay": 1.817
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "YOU",
+        "delay": 0.171
+      },
+      {
+        "text": "ARE",
+        "delay": 0.204
+      },
+      {
+        "text": "ALWAYS",
+        "delay": 0.339
+      },
+      {
+        "text": "GOING",
+        "delay": 1.636
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "THEN",
+        "delay": 0.326
+      },
+      {
+        "text": "COMING",
+        "delay": 0.279
+      },
+      {
+        "text": "AT",
+        "delay": 0.229
+      },
+      {
+        "text": "YOUR",
+        "delay": 0.292
+      },
+      {
+        "text": "WAY",
+        "delay": 2.426
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.819
+      },
+      {
+        "text": "THIS",
+        "delay": 0.5
+      },
+      {
+        "text": "TIME",
+        "delay": 0.866
+      },
+      {
+        "text": "WITH",
+        "delay": 0.458
+      },
+      {
+        "text": "ME",
+        "delay": 0.688
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.569
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.878
+      },
+      {
+        "text": "IS",
+        "delay": 0.437
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.771
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.612
+      },
+      {
+        "text": "WE",
+        "delay": 0.53
+      },
+      {
+        "text": "ARE",
+        "delay": 0.764
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.664
+      },
+      {
+        "text": "FOREVER",
+        "delay": 1.925
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.698
+      },
+      {
+        "text": "THIS",
+        "delay": 0.557
+      },
+      {
+        "text": "TIME",
+        "delay": 0.717
+      },
+      {
+        "text": "WITH",
+        "delay": 0.636
+      },
+      {
+        "text": "ME",
+        "delay": 0.604
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.619
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.788
+      },
+      {
+        "text": "IS",
+        "delay": 0.585
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.652
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.639
+      },
+      {
+        "text": "WE",
+        "delay": 0.675
+      },
+      {
+        "text": "ARE",
+        "delay": 0.575
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.668
+      },
+      {
+        "text": "FOREVER",
+        "delay": 5.069
+      }
+    ]
+  },
+  {
+    "words":[
+      {
+        "text": "...",
+        "delay": 23
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.653
+      },
+      {
+        "text": "THIS",
+        "delay": 0.655
+      },
+      {
+        "text": "TIME",
+        "delay": 0.64
+      },
+      {
+        "text": "WITH",
+        "delay": 0.619
+      },
+      {
+        "text": "ME",
+        "delay": 0.71
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.6
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.819
+      },
+      {
+        "text": "IS",
+        "delay": 0.489
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.671
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.655
+      },
+      {
+        "text": "WE",
+        "delay": 0.663
+      },
+      {
+        "text": "ARE",
+        "delay": 0.66
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.655
+      },
+      {
+        "text": "FOREVER",
+        "delay": 1.965
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.672
+      },
+      {
+        "text": "THIS",
+        "delay": 0.597
+      },
+      {
+        "text": "TIME",
+        "delay": 0.652
+      },
+      {
+        "text": "WITH",
+        "delay": 0.656
+      },
+      {
+        "text": "ME",
+        "delay": 0.653
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.612
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.739
+      },
+      {
+        "text": "IS",
+        "delay": 0.635
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.538
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.76
+      },
+      {
+        "text": "WE",
+        "delay": 0.68
+      },
+      {
+        "text": "ARE",
+        "delay": 0.708
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.606
+      },
+      {
+        "text": "FOREVER",
+        "delay": 2.318
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "HA",
+        "delay": 14.331
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "(FOREVER)",
+        "delay": 10.343
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "(FOREVER)",
+        "delay": 0.998
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.899
+      },
+      {
+        "text": "THIS",
+        "delay": 0.419
+      },
+      {
+        "text": "TIME",
+        "delay": 0.762
+      },
+      {
+        "text": "WITH",
+        "delay": 0.524
+      },
+      {
+        "text": "ME",
+        "delay": 0.672
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.646
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.841
+      },
+      {
+        "text": "IS",
+        "delay": 0.502
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.591
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.638
+      },
+      {
+        "text": "WE",
+        "delay": 0.681
+      },
+      {
+        "text": "ARE",
+        "delay": 0.656
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.656
+      },
+      {
+        "text": "FOREVER",
+        "delay": 1.954
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "SPEND",
+        "delay": 0.66
+      },
+      {
+        "text": "THIS",
+        "delay": 0.645
+      },
+      {
+        "text": "TIME",
+        "delay": 0.874
+      },
+      {
+        "text": "WITH",
+        "delay": 0.401
+      },
+      {
+        "text": "ME",
+        "delay": 0.66
+      },
+      {
+        "text": "'CAUSE",
+        "delay": 0.603
+      },
+      {
+        "text": "LIFE",
+        "delay": 0.764
+      },
+      {
+        "text": "IS",
+        "delay": 0.609
+      },
+      {
+        "text": "SHORT",
+        "delay": 0.662
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "BUT",
+        "delay": 0.642
+      },
+      {
+        "text": "WE",
+        "delay": 0.677
+      },
+      {
+        "text": "ARE",
+        "delay": 0.684
+      },
+      {
+        "text": "HIGH",
+        "delay": 0.685
+      },
+      {
+        "text": "FOREVER",
+        "delay": 2.178
+      }
+    ]
+  },
+  {
+    "words": [
+      {
+        "text": "HA",
+        "delay": 6.123
+      }
+    ]
+  },
+  {
+    "words":[
+      {
+        "text": ":)",
+        "delay": 30
+      }
+    ]
+  }
+]
