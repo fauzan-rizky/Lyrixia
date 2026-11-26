@@ -73,7 +73,7 @@ def render_ui(term_width, term_height):
      controls = "🞀-  (||)  -🞂"
      
      with term.location(int(term_width/2)-int(len(controls)/2), term_height-margin):
-          print("<-  ||  ->",
+          print("🞀-  ||  -🞂",
                 end="",
                 flush=True
                 )
