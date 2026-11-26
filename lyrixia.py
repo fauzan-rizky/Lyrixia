@@ -279,6 +279,12 @@ coma = [      "   ",
               "   ",
               "▄█ "]
 
+singletick = [ "▀█ ",
+               "   ",
+               "   ",
+               "   ",
+               "   "]
+
 dot = [       "   ",
               "   ",
               "   ",
@@ -312,12 +318,13 @@ alphabet = {
 
     '(':openbraces, ')':closebraces, '-':dash, '_':underscore, '[':openbracket, ']':closebracket,
 
-    ':':doubledot, ',':coma, '.':dot, '~':squigly
+    ':':doubledot, ',':coma, '.':dot, '~':squigly, "'":singletick
 
 }
 
 # Size per char = 8*5
 from blessed import Terminal
+from math import floor
 import pygame
 import pygame.mixer
 import copy
@@ -343,6 +350,39 @@ def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 clear_terminal()
+
+def refresh_line(initx,inity,width,height):
+     with term.location(initx,inity):
+          for i in range(height):
+               for j in range(width):
+                    print(" ", sep='', end="")
+               print("", sep="", end="", flush=True)
+
+def song_progress(elapsed, duration, term_width, term_height):
+     margin_side = 5
+     margin_bottom = 5
+     
+     width = term_width - margin_side*2
+     
+     progress = min(elapsed/duration, 1)
+     bar = int(progress*width)
+     
+     with term.location(margin_side, term_height-margin_bottom):
+          print(
+               "█" * bar + '-' * int((width-bar)),
+               end="",
+               flush=True
+          )
+               
+def render_ui(term_width, term_height):
+     margin = 3
+     controls = "🞀-  (||)  -🞂"
+     
+     with term.location(int(term_width/2)-int(len(controls)/2), term_height-margin):
+          print("<-  ||  ->",
+                end="",
+                flush=True
+                )
 
 def renderTiktok(inputText, delay=1):
     global buffer, longBuffers
@@ -379,32 +419,37 @@ def renderTiktok(inputText, delay=1):
     
     with term.fullscreen(), term.hidden_cursor():
     
-        print(term.home + term.clear, end="")
+        elapsed = time.monotonic() - stopwatch
+        
+        song_progress(elapsed, song_duration, term.width, term.height)
+        render_ui(term.width, term.height)
         box_width = max((len(row[0]) for row in longBuffers), default=0)
         box_height = font_height*len(longBuffers)+1*len(longBuffers)
         print(box_width, box_height)
 
         initX = (term.width - box_width) // 2
         initY = (term.height - box_height) // 2
+        pointerY = copy.deepcopy(initY)
         # x = (term.width - term.length(pesan)) // 2
         # y = term.height // 2
 
         for i in range(len(longBuffers)):
             for j in range(len(longBuffers[i])):
-                with term.location(initX, initY):
+                with term.location(initX, pointerY):
                     print(*longBuffers[i][j], sep='', end="", flush=True)
-                    initY+=1
-            with term.location(initX, initY):
+                    pointerY+=1
+            with term.location(initX, pointerY):
                 print(" ", sep='', end='', flush=True)
-                initY+=1
+                pointerY+=1
         
         time.sleep(delay)
+        refresh_line(initX+1,initY,box_width,box_height)
 
 # 1 -> Line, 2 -> Lines
 
 # PLACE FILES HERE
-jsonPATH = "./AsaAsmara/asaAsmara.json"
-mp3PATH = "./AsaAsmara/asaAsmara.mp3"
+jsonPATH = "./MerryChristmasPDC/mcpdc.json"
+mp3PATH = "./MerryChristmasPDC/mcpdc.mp3"
 
 with open(jsonPATH, encoding="utf-8") as f:
     data = json.load(f)
@@ -426,12 +471,17 @@ for line in data:
     currentLine = ""
     
 currentWord = 0
+print(term.home + term.clear, end="")
+song_duration = pygame.mixer.Sound(mp3PATH).get_length()
 pygame.mixer.music.play()
+stopwatch = time.monotonic()
+
 for line in range(len(lines)):
     splitted = lines[line].split()
     for word in range(len(splitted)):
         joined = " ".join(splitted[0:word+1])
         renderTiktok(joined, delays[currentWord])
+        
         currentWord +=1 
 
 # progressiveText = ""
