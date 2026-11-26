@@ -1,5 +1,6 @@
 # Size per char = 8*5
 from blessed import Terminal
+from pathlib import Path
 import threading
 import pygame
 import pygame.mixer
@@ -14,8 +15,9 @@ from Dictionary.basic_ascii import alphabet
 term = Terminal()
 stop_event = threading.Event()
 terminal_lock = threading.Lock()
-
+stopwatch = ''
 def progress_watcher():
+    global stopwatch
     while not stop_event.is_set():
         elapsed = time.monotonic() - stopwatch
 
@@ -63,7 +65,7 @@ def song_progress(elapsed, duration, term_width, term_height):
      
      with term.location(margin_side, term_height-margin_bottom):
           print(
-               "█" * bar + '-' * int((width-bar)),
+               "[" + "O" * bar + '-' * int((width-bar-2)) + ']',
                end="",
                flush=True
           )
@@ -136,53 +138,99 @@ def renderTiktok(inputText, delay=1):
           refresh_line(initX,initY,box_width,box_height)
 
 # 1 -> Line, 2 -> Lines
+songs = []
+songs_path = Path("Songs")
 
 # PLACE FILES HERE
-jsonPATH = "./HighForever/HighForever.json"
-mp3PATH = "./HighForever/HighForever.mp3"
-
-with open(jsonPATH, encoding="utf-8") as f:
-    data = json.load(f)
-    
-pygame.mixer.init()
-pygame.mixer.music.load(mp3PATH)
-
+def get_songs():
+    for item in songs_path.iterdir():
+        if item.is_dir():
+            songs.append(item.name)
+            
+get_songs()
 clear_terminal()
 
-currentLine = ""
-lines = []
-delays = []
-for line in data:
-    for w in line["words"]:
-        currentLine += w["text"]
-        currentLine += " "
-        delays.append(w["delay"])
-    lines += [currentLine]
-    currentLine = ""
-    
-currentWord = 0
-print(term.home + term.clear, end="")
-song_duration = pygame.mixer.Sound(mp3PATH).get_length()
+pygame.mixer.init()
+title = "LYRIXIA"
+version = "Ver. 0.7 beta"
+prompt = "Detected Songs:"
+menu_width = 35
+menu_height = 5+len(songs)
+menu_margin = (term.height-menu_height)//2
+while True:
+    for i in range(menu_margin):
+        print(
+            " " * term.width, flush=True
+        )
 
+    print(" " * int((term.width-len(title))/2) + title, flush=True)
+    print(" " * int((term.width-len(version))/2) + version, flush=True)
+    print(" ")
+    print(" " * int(((term.width)-menu_width)/2) + prompt, flush=True)
+    print(" ")
+    for i in range(len(songs)):
+        print(" " * int(((term.width)-menu_width)/2) + f'[{i+1}] '+ songs[i])
 
-with term.fullscreen(), term.hidden_cursor():
-     pygame.mixer.music.play()
-     stopwatch = time.monotonic()
-     
-     progress_thread = threading.Thread(target=progress_watcher)
-     progress_thread.start()  
-     
-     try:
-          for line in range(len(lines)):
-              splitted = lines[line].split()
-              for word in range(len(splitted)):
-                  joined = " ".join(splitted[0:word+1])
-                  renderTiktok(joined, delays[currentWord])
-                  
-                  currentWord +=1 
-     except:
-          stop_event.set()
-          progress_thread.join()
+    for i in range(menu_margin-4):
+        print(
+            " " * term.width, flush=True
+        )
+    print("-" * term.width, flush=True)
+    selected = input(" Select>  ")
+
+    valid_select = [str(i+1) for i in range(len(songs))]
+    if selected not in valid_select:
+        clear_terminal()
+        pass
+    else:
+        try:
+            jsonPATH = f"./Songs/{songs[int(selected)-1]}/{songs[int(selected)-1]}.json"
+            mp3PATH = f"./Songs/{songs[int(selected)-1]}/{songs[int(selected)-1]}.mp3"
+
+            with open(jsonPATH, encoding="utf-8") as f:
+                data = json.load(f)
+
+            pygame.mixer.music.load(mp3PATH)
+
+            currentLine = ""
+            lines = []
+            delays = []
+            for line in data:
+                for w in line["words"]:
+                    currentLine += w["text"]
+                    currentLine += " "
+                    delays.append(w["delay"])
+                lines += [currentLine]
+                currentLine = ""
+
+            currentWord = 0
+            print(term.home + term.clear, end="")
+            song_duration = pygame.mixer.Sound(mp3PATH).get_length()
+
+            with term.fullscreen(), term.hidden_cursor():
+                 pygame.mixer.music.play()
+                 stopwatch = time.monotonic()
+
+                 progress_thread = threading.Thread(target=progress_watcher)
+                 progress_thread.start()  
+
+                 try:
+                      for line in range(len(lines)):
+                          splitted = lines[line].split()
+                          for word in range(len(splitted)):
+                              joined = " ".join(splitted[0:word+1])
+                              renderTiktok(joined, delays[currentWord])
+
+                              currentWord +=1 
+                 except:
+
+                      stop_event.set()
+                      progress_thread.join()
+                      clear_terminal()
+                      exit()
+        except:
+            clear_terminal()
+            pass
 # progressiveText = ""
 # initsplit = INITIALtext.split(' ')
 # for i in range(len(initsplit)-1):
