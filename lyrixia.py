@@ -65,7 +65,7 @@ def song_progress(elapsed, duration, term_width, term_height):
      
      with term.location(margin_side, term_height-margin_bottom):
           print(
-               "[" + "O" * bar + '-' * int((width-bar-2)) + ']',
+               "[" + "O" *(bar) + '-' * int((width-bar-2)) + ']',
                end="",
                flush=True
           )
@@ -152,12 +152,17 @@ clear_terminal()
 
 pygame.mixer.init()
 title = "LYRIXIA"
-version = "Ver. 0.7 beta"
-prompt = "Detected Songs:"
-menu_width = 35
+version = "Ver. 0.8 beta"
+prompt = "Founds Songs:"
+menu_width = 45
 menu_height = 5+len(songs)
 menu_margin = (term.height-menu_height)//2
 while True:
+    initY = 0
+    for i in range(term.height):
+        with term.location(0,initY):
+                print(" " * term.width)
+                initY+=1
     for i in range(menu_margin):
         print(
             " " * term.width, flush=True
@@ -175,7 +180,11 @@ while True:
         print(
             " " * term.width, flush=True
         )
-    print("-" * term.width, flush=True)
+    total_margin = menu_margin+menu_height+(menu_margin-4)
+    with term.location(0, total_margin):
+                    print("-" * (int(term.width)-1), flush=True)
+    print(" ")
+    print(" ")
     selected = input(" Select>  ")
 
     valid_select = [str(i+1) for i in range(len(songs))]
@@ -210,6 +219,8 @@ while True:
             with term.fullscreen(), term.hidden_cursor():
                  pygame.mixer.music.play()
                  stopwatch = time.monotonic()
+                 
+                 stop_event.clear()
 
                  progress_thread = threading.Thread(target=progress_watcher)
                  progress_thread.start()  
@@ -223,14 +234,13 @@ while True:
 
                               currentWord +=1 
                  except:
-
+                      pygame.mixer.music.stop()
                       stop_event.set()
                       progress_thread.join()
-                      clear_terminal()
-                      exit()
         except:
-            clear_terminal()
-            pass
+            pygame.mixer.music.stop()
+            stop_event.set()
+            progress_thread.join()
 # progressiveText = ""
 # initsplit = INITIALtext.split(' ')
 # for i in range(len(initsplit)-1):
